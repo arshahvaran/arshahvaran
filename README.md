@@ -1,3 +1,4 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=333333&height=100&section=header)
 # <img src="https://github.com/user-attachments/assets/9efd3f92-f0e6-4634-b9b7-133bfb380f3b" height="40"/> <img src="https://github.com/user-attachments/assets/8aa59d64-0a48-47d1-a940-a70646fef76d" height="40"/> Ali Reza Shahvaran (He/Him), MSc [![GitHub followers](https://img.shields.io/github/followers/arshahvaran?style=social)](https://github.com/arshahvaran) ![Profile Views](https://komarev.com/ghpvc/?username=arshahvaran&color=blue&style=flat-square&label=Profile+Views)
 ### Research Assistant II (Geomatics Technician)
 
@@ -54,4 +55,4 @@ Certified in advanced machine learning and deep learning, I combine programming 
 ## 🌍 Contribution Model
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=333333&height=100&section=footer)
