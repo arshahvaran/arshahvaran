@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0078D7,100:00C7B7&height=100&section=header)
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=c9d1d9&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+Welcome+to+My+GitHub+Page" alt="Typing SVG" />
@@ -43,6 +43,8 @@ Certified in advanced machine learning and deep learning, I combine programming 
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/arshahvaran)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/alirezashahvaran)
 
+<div align="center">
+  
 ## 💻 Language Breakdown
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arshahvaran&layout=donut&theme=dark&hide_border=true&bg_color=333333&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -61,4 +63,6 @@ Certified in advanced machine learning and deep learning, I combine programming 
 ## 🌍 Contribution Model
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0078D7,100:00C7B7&height=100&section=footer)
