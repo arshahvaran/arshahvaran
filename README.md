@@ -1,7 +1,7 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0078D7,100:00C7B7&height=100&section=header)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=c9d1d9&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+Welcome+to+My+GitHub+Page" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=c9d1d9&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+Welcome+to+My+GitHub+Portfolio" alt="Typing SVG" />
   </a>
 </div>
 
@@ -81,4 +81,4 @@ Certified in advanced machine learning and deep learning, I combine programming 
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Map" />
 </p>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0078D7,100:00C7B7&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
