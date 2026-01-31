@@ -28,6 +28,9 @@ Certified in advanced machine learning and deep learning, I combine programming 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-333333?style=flat&logo=visual-studio-code&logoColor=0078d7)
 
 
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=arshahvaran&theme=flat&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 🌐 Socials:
 
 [![X (formerly Twitter)](https://img.shields.io/badge/X_%28Formerly_Twitter%29-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/arshahvaran)
