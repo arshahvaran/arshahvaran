@@ -6,8 +6,6 @@ As an environmental scientist and engineer with a multidisciplinary background, 
 
 Certified in advanced machine learning and deep learning, I combine programming proficiency in Python, MATLAB, and R with a deep understanding of Earth and environmental sciences. My work bridges the gap between traditional environmental engineering and cutting-edge geo- and hydro-informatics, enabling me to develop innovative, data-driven solutions. I am committed to sustainability and always eager to collaborate on projects that make a positive impact on our environment.
 
-#WaterResources #Hydrology #WaterQuality #ClimateChange #MachineLearning
-
 ## 🔎 Areas of Focus:
 * 💧 Water Resources Management | Hydrologic/Hydraulic Modeling | Water Quality Monitoring & Modeling
 * 🛰️ Environmental Remote Sensing & Geographic Information Systems (GIS)
@@ -27,15 +25,6 @@ Certified in advanced machine learning and deep learning, I combine programming 
 ![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git&logoColor=F05033)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-333333?style=flat&logo=visual-studio-code&logoColor=0078d7)
 
-## 🔥 Coding Streak
-[![ReadMe Card](https://github-readme-streak-stats.herokuapp.com/?user=arshahvaran&theme=dark&hide_border=true&background=333333)](https://github.com/arshahvaran)
-
-## 📊 GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arshahvaran&show_icons=true&theme=dark&hide_border=true&bg_color=333333)](https://github.com/arshahvaran)
-
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=arshahvaran&theme=flat&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## 🌐 Socials:
 
 [![X (formerly Twitter)](https://img.shields.io/badge/X_%28Formerly_Twitter%29-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/arshahvaran)
@@ -47,4 +36,14 @@ Certified in advanced machine learning and deep learning, I combine programming 
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/arshahvaran)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/alirezashahvaran)
 
+## 🔥 Coding Streak
+[![ReadMe Card](https://github-readme-streak-stats.herokuapp.com/?user=arshahvaran&theme=dark&hide_border=true&background=333333)](https://github.com/arshahvaran)
 
+## 🧩 Coding Stats
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=YOUR_LEETCODE_USERNAME&theme=dark&font=Segoe%20UI)
+
+## 📊 GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arshahvaran&show_icons=true&theme=dark&hide_border=true&bg_color=333333)](https://github.com/arshahvaran)
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=arshahvaran&theme=flat&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
