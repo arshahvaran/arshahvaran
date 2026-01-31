@@ -27,11 +27,13 @@ Certified in advanced machine learning and deep learning, I combine programming 
 
 ## ⚙️ Technical Skills
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-e16737?style=for-the-badge&logo=mathworks&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=3776AB)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-333333?style=flat&logo=scikit-learn&logoColor=F7931E)
+![NumPy](https://img.shields.io/badge/NumPy-333333?style=flat&logo=numpy&logoColor=013243)
+![R](https://img.shields.io/badge/R-333333?style=flat&logo=r&logoColor=276DC3)
+![MATLAB](https://img.shields.io/badge/MATLAB-333333?style=flat&logo=matlab&logoColor=e16737)
+![Jupyter](https://img.shields.io/badge/Jupyter-333333?style=flat&logo=jupyter&logoColor=F37626)
+![Pandas](https://img.shields.io/badge/Pandas-333333?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-333333?style=flat&logo=matplotlib&logoColor=white)
+![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git&logoColor=F05033)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-333333?style=flat&logo=visual%20studio%20code&logoColor=0078d7)
