@@ -1,4 +1,4 @@
-# <img src="https://github.com/user-attachments/assets/9efd3f92-f0e6-4634-b9b7-133bfb380f3b" height="40"/> <img src="https://github.com/user-attachments/assets/8aa59d64-0a48-47d1-a940-a70646fef76d" height="40"/> Ali Reza Shahvaran (He/Him), MSc
+# <img src="https://github.com/user-attachments/assets/9efd3f92-f0e6-4634-b9b7-133bfb380f3b" height="40"/> <img src="https://github.com/user-attachments/assets/8aa59d64-0a48-47d1-a940-a70646fef76d" height="40"/> Ali Reza Shahvaran (He/Him), MSc [![GitHub followers](https://img.shields.io/github/followers/arshahvaran?style=social)](https://github.com/arshahvaran)
 ### Research Assistant II (Geomatics Technician)
 
 ## ℹ️ About:
@@ -39,10 +39,6 @@ Certified in advanced machine learning and deep learning, I combine programming 
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Ali-Reza-Shahvaran?ev=hdr_xprf)
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--7846--054X-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-7846-054X)
-
-[![GitHub followers](https://img.shields.io/github/followers/arshahvaran?style=social)](https://github.com/arshahvaran)
-
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/arshahvaran)
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/arshahvaran/)
 
