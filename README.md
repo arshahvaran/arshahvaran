@@ -8,7 +8,7 @@ Certified in advanced machine learning and deep learning, I combine programming 
 
 #WaterResources #Hydrology #WaterQuality #ClimateChange #MachineLearning
 
-## 🔎 About:
+## 🔎 Areas of Focus:
 * 💧 Water Resources Management | Hydrologic/Hydraulic Modeling | Water Quality Monitoring & Modeling
 * 🛰️ Environmental Remote Sensing & Geographic Information Systems (GIS)
 * 🌍 Climate Change Impact Assessment
