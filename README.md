@@ -1,4 +1,4 @@
-# ![output-onlinegiftools](https://github.com/user-attachments/assets/9efd3f92-f0e6-4634-b9b7-133bfb380f3b) ![d182f381-91bf-451d-a8fd-845d518d354d](https://github.com/user-attachments/assets/9cf7162f-7827-455a-9b48-0d5b5cac3eae) Ali Reza Shahvaran (He/Him), MSc | Research Assistant II (Geomatics Technician)
+# <img src="https://github.com/user-attachments/assets/9efd3f92-f0e6-4634-b9b7-133bfb380f3b" height="60"/> <img src="https://github.com/user-attachments/assets/9cf7162f-7827-455a-9b48-0d5b5cac3eae" height="60"/> Ali Reza Shahvaran (He/Him), MSc | Research Assistant II (Geomatics Technician)
 
 # 🌐 Socials:
 
