@@ -43,26 +43,42 @@ Certified in advanced machine learning and deep learning, I combine programming 
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/arshahvaran)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/alirezashahvaran)
 
-<div align="center">
-  
 ## 💻 Language Breakdown
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arshahvaran&layout=donut&theme=dark&hide_border=true&bg_color=333333&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshahvaran&layout=donut&theme=dark&hide_border=true&bg_color=333333&text_color=ffffff" alt="Top Langs" />
+  </a>
+</p>
 
 ## 🔥 Coding Streak
-[![ReadMe Card](https://github-readme-streak-stats.herokuapp.com/?user=arshahvaran&theme=dark&hide_border=true&background=333333)](https://github.com/arshahvaran)
+<p align="center">
+  <a href="https://github.com/arshahvaran">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshahvaran&theme=dark&hide_border=true&background=333333" alt="ReadMe Card" />
+  </a>
+</p>
 
 ## 🧩 Coding Stats
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=YOUR_LEETCODE_USERNAME&theme=dark&font=Segoe%20UI)
+<p align="center">
+  <img src="https://leetcode-stats-six.vercel.app/?username=YOUR_LEETCODE_USERNAME&theme=dark&font=Segoe%20UI" alt="LeetCode Stats" />
+</p>
 
 ## 📊 GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arshahvaran&show_icons=true&theme=dark&hide_border=true&bg_color=333333)](https://github.com/arshahvaran)
+<p align="center">
+  <a href="https://github.com/arshahvaran">
+    <img src="https://github-readme-stats.vercel.app/api?username=arshahvaran&show_icons=true&theme=dark&hide_border=true&bg_color=333333" alt="GitHub Stats" />
+  </a>
+</p>
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=arshahvaran&theme=flat&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=arshahvaran&theme=flat&no-frame=true&no-bg=true&margin-w=4" alt="trophy" />
+  </a>
+</p>
 
 ## 🌍 Contribution Model
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-</div>
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Map" />
+</p>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0078D7,100:00C7B7&height=100&section=footer)
