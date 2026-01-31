@@ -27,6 +27,11 @@ Certified in advanced machine learning and deep learning, I combine programming 
 ![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git&logoColor=F05033)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-333333?style=flat&logo=visual-studio-code&logoColor=0078d7)
 
+## 🔥 Coding Streak
+[![ReadMe Card](https://github-readme-streak-stats.herokuapp.com/?user=arshahvaran&theme=dark&hide_border=true&background=333333)](https://github.com/arshahvaran)
+
+## 📊 GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arshahvaran&show_icons=true&theme=dark&hide_border=true&bg_color=333333)](https://github.com/arshahvaran)
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=arshahvaran&theme=flat&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
