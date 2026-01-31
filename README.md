@@ -1,5 +1,5 @@
 # <img src="https://github.com/user-attachments/assets/9efd3f92-f0e6-4634-b9b7-133bfb380f3b" height="40"/> <img src="https://github.com/user-attachments/assets/8aa59d64-0a48-47d1-a940-a70646fef76d" height="40"/> Ali Reza Shahvaran (He/Him), MSc
-### Research Assistant II (Geomatics Technician)
+Research Assistant II (Geomatics Technician)
 ## ℹ️ About:
 As an environmental scientist and engineer with a multidisciplinary background, I am passionate about leveraging technology to address complex environmental challenges. Over the past five years, I have integrated expertise in remote sensing, GIS, hydrologic modeling, and data science to specialize in environmental monitoring and climate change impact assessment.
 
@@ -31,9 +31,9 @@ Certified in advanced machine learning and deep learning, I combine programming 
 ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-333333?style=flat&logo=scikit-learn&logoColor=F7931E)
 ![NumPy](https://img.shields.io/badge/NumPy-333333?style=flat&logo=numpy&logoColor=013243)
 ![R](https://img.shields.io/badge/R-333333?style=flat&logo=r&logoColor=276DC3)
-![MATLAB](https://img.shields.io/badge/MATLAB-333333?style=flat&logo=matlab&logoColor=e16737)
+![MATLAB](https://img.shields.io/badge/MATLAB-333333?style=flat&logo=mathworks&logoColor=e16737)
 ![Jupyter](https://img.shields.io/badge/Jupyter-333333?style=flat&logo=jupyter&logoColor=F37626)
 ![Pandas](https://img.shields.io/badge/Pandas-333333?style=flat&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-333333?style=flat&logo=matplotlib&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git&logoColor=F05033)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-333333?style=flat&logo=visual%20studio%20code&logoColor=0078d7)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-333333?style=flat&logo=visual-studio-code&logoColor=0078d7)
