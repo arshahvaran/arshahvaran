@@ -36,6 +36,9 @@ Certified in advanced machine learning and deep learning, I combine programming 
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/arshahvaran)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/alirezashahvaran)
 
+## 💻 Language Breakdown
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arshahvaran&layout=donut&theme=dark&hide_border=true&bg_color=333333&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🔥 Coding Streak
 [![ReadMe Card](https://github-readme-streak-stats.herokuapp.com/?user=arshahvaran&theme=dark&hide_border=true&background=333333)](https://github.com/arshahvaran)
 
