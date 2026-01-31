@@ -12,7 +12,21 @@ Certified in advanced machine learning and deep learning, I combine programming 
 * 💧 Water Resources Management | Hydrologic/Hydraulic Modeling | Water Quality Monitoring & Modeling
 * 🛰️ Environmental Remote Sensing & Geographic Information Systems (GIS)
 * 🌍 Climate Change Impact Assessment
-* 🧠 Machine Learning & Deep Learning in Environmental Sciences | Geo-Hydroinformatics
+* 🖥️ Machine Learning & Deep Learning in Environmental Sciences | Geo-Hydroinformatics
+
+## ⚙️ Technical Skills
+
+![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=3776AB)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-333333?style=flat&logo=scikit-learn&logoColor=F7931E)
+![NumPy](https://img.shields.io/badge/NumPy-333333?style=flat&logo=numpy&logoColor=013243)
+![R](https://img.shields.io/badge/R-333333?style=flat&logo=r&logoColor=276DC3)
+![MATLAB](https://img.shields.io/badge/MATLAB-333333?style=flat&logo=mathworks&logoColor=e16737)
+![Jupyter](https://img.shields.io/badge/Jupyter-333333?style=flat&logo=jupyter&logoColor=F37626)
+![Pandas](https://img.shields.io/badge/Pandas-333333?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-333333?style=flat&logo=matplotlib&logoColor=white)
+![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git&logoColor=F05033)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-333333?style=flat&logo=visual-studio-code&logoColor=0078d7)
+
 
 ## 🌐 Socials:
 
@@ -32,15 +46,4 @@ Certified in advanced machine learning and deep learning, I combine programming 
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/alirezashahvaran)
 
-## ⚙️ Technical Skills
 
-![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=3776AB)
-![Scikit-Learn](https://img.shields.io/badge/scikit_learn-333333?style=flat&logo=scikit-learn&logoColor=F7931E)
-![NumPy](https://img.shields.io/badge/NumPy-333333?style=flat&logo=numpy&logoColor=013243)
-![R](https://img.shields.io/badge/R-333333?style=flat&logo=r&logoColor=276DC3)
-![MATLAB](https://img.shields.io/badge/MATLAB-333333?style=flat&logo=mathworks&logoColor=e16737)
-![Jupyter](https://img.shields.io/badge/Jupyter-333333?style=flat&logo=jupyter&logoColor=F37626)
-![Pandas](https://img.shields.io/badge/Pandas-333333?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-333333?style=flat&logo=matplotlib&logoColor=white)
-![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git&logoColor=F05033)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-333333?style=flat&logo=visual-studio-code&logoColor=0078d7)
