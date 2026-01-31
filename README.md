@@ -9,7 +9,7 @@ Certified in advanced machine learning and deep learning, I combine programming 
 
 # 🌐 Socials:
 
-[![X (formerly Twitter)](https://img.shields.io/badge/X_Formerly_Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/arshahvaran)
+[![X (formerly Twitter)](https://img.shields.io/badge/X_%28Formerly_Twitter%29-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/arshahvaran)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-reza-shahvaran)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.ca/citations?user=pYay3EcAAAAJ&hl=en)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Ali-Reza-Shahvaran?ev=hdr_xprf)
