@@ -1,4 +1,8 @@
-![Header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=120&section=header&fontSize=90)
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Ali+Reza+👋;MSc+Student+%7C+Researcher;Geomatics+%26+Remote+Sensing;Python+%7C+R+%7C+MATLAB+Expert" alt="Typing SVG" />
+  </a>
+</div>
 # <img src="https://github.com/user-attachments/assets/9efd3f92-f0e6-4634-b9b7-133bfb380f3b" height="40"/> <img src="https://github.com/user-attachments/assets/8aa59d64-0a48-47d1-a940-a70646fef76d" height="40"/> Ali Reza Shahvaran (He/Him), MSc [![GitHub followers](https://img.shields.io/github/followers/arshahvaran?style=social)](https://github.com/arshahvaran) ![Profile Views](https://komarev.com/ghpvc/?username=arshahvaran&color=blue&style=flat-square&label=Profile+Views)
 ### Research Assistant II (Geomatics Technician)
 
