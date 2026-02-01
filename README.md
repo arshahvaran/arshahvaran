@@ -60,7 +60,7 @@ Certified in advanced machine learning and deep learning, I combine programming 
 
 ## 🧩 Coding Stats
 <p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/?username=YOUR_LEETCODE_USERNAME&theme=dark&font=Segoe%20UI" alt="LeetCode Stats" />
+  <img src="https://leetcode-stats-six.vercel.app/?username=arshahvaran&theme=dark&font=Segoe%20UI" alt="LeetCode Stats" />
 </p>
 
 ## 📊 GitHub Stats
