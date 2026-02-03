@@ -18,7 +18,7 @@ Certified in advanced machine learning and deep learning, I combine programming 
 * 💧 Water Resources Management | Hydrologic/Hydraulic Modeling | Water Quality Monitoring & Modeling
 * 🛰️ Environmental Remote Sensing & Geographic Information Systems (GIS)
 * 🌍 Climate Change Impact Assessment
-* 🖥️ Machine Learning & Deep Learning in Environmental Sciences | Geo-Hydroinformatics
+* 🖥️ Artificial Intelligence (Machine Learning & Deep Learning) in Environmental Sciences | Geo-Hydroinformatics
 
 ## ⚙️ Technical Skills
 
