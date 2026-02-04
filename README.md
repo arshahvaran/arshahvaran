@@ -50,7 +50,7 @@ Certified in advanced machine learning and deep learning, I combine programming 
 <table width="100%" style="table-layout: fixed; border-collapse: collapse;">
   <tr>
     <td width="50%">
-      <h3 align="left">&nbsp;<img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" height="22.5" style="vertical-align: -25px;" alt="GitHub" />&nbsp;🐙GitHub Stats</h3>
+      <h3 align="left">&nbsp;<img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" height="22.5" style="vertical-align: -205px;" alt="GitHub" />&nbsp;🐙GitHub Stats</h3>
       <div align="center">
         <a href="https://github.com/arshahvaran">
           <img src="https://github-readme-stats-fast.vercel.app/api?username=arshahvaran&show_icons=true&theme=dark&hide_border=true&bg_color=101010&text_color=ffffff&icon_color=fe7d37&title_color=fe7d37&hide_title=true" width="100%" alt="GitHub Stats" />
