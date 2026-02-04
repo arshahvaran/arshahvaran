@@ -49,38 +49,37 @@ Certified in advanced machine learning and deep learning, I combine programming 
 <h2 align="left">🚀 Coding Stats</h2>
 <table width="100%" style="table-layout: fixed; border-collapse: collapse;">
   <tr>
-    <td width="50%" style="background-color: #0d1117;">
+    <td width="50%" style="background-color: #0d1117; padding: 12px;">
       <h3 align="left">&nbsp;🐙 GitHub Stats</h3>
       <div align="center">
         <a href="https://github.com/arshahvaran">
-          <img src="https://github-readme-stats-fast.vercel.app/api?username=arshahvaran&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=fe7d37&title_color=fe7d37&hide_title=true" width="100%" alt="GitHub Stats" />
+          <img src="https://github-readme-stats-fast.vercel.app/api?username=arshahvaran&show_icons=true&theme=transparent&hide_border=true" width="100%" alt="GitHub Stats" />
         </a>
       </div>
     </td>
-    <td width="50%" style="background-color: #0d1117;">
+    <td width="50%" style="background-color: #0d1117; padding: 12px;">
       <h3 align="left">&nbsp;🔥 Coding Streak</h3>
       <div align="center">
         <a href="https://github.com/arshahvaran">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshahvaran&theme=dark&hide_border=true&background=0d1117" width="100%" alt="Streak Stats" />
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshahvaran&theme=transparent&hide_border=true&background=transparent" width="100%" alt="Streak Stats" />
         </a>
       </div>
     </td>
   </tr>
   <tr>
-    <td width="50%" style="background-color: #0d1117;">
+    <td width="50%" style="background-color: #0d1117; padding: 12px;">
       <h3 align="left">&nbsp;🧠 LeetCode Stats</h3>
       <div align="center">
         <a href="https://leetcode.com/arshahvaran">
-          <img src="https://leetcode.card.workers.dev/?username=arshahvaran&theme=dark&font=Segoe%20UI&border=0" width="100%" alt="LeetCode Stats" />
-        </a>
+          <img src="https://leetcode.card.workers.dev/?username=arshahvaran&theme=transparent&font=Segoe%20UI&border=0" width="100%" alt="LeetCode Stats" />
         </a>
       </div>
     </td>
-    <td width="50%" style="background-color: #FFFFFF;">
+    <td width="50%" style="background-color: #FF0000; padding: 12px;">  <!-- test cell -->
       <h3 align="left">&nbsp;💻 Language Breakdown</h3>
       <div align="center">
-         <a href="https://github.com/arshahvaran">
-          <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=arshahvaran&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=ffffff&langs_count=6" width="100%" alt="Top Languages" />
+        <a href="https://github.com/arshahvaran">
+          <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=arshahvaran&layout=compact&theme=transparent&hide_border=true" width="100%" alt="Top Languages" />
         </a>
       </div>
     </td>
