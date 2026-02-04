@@ -76,7 +76,7 @@ Certified in advanced machine learning and deep learning, I combine programming 
         </a>
       </div>
     </td>
-    <td width="50%" style="background-color: #0d1117;">
+    <td width="50%" style="background-color: #FFFFFF;">
       <h3 align="left">&nbsp;💻 Language Breakdown</h3>
       <div align="center">
          <a href="https://github.com/arshahvaran">
