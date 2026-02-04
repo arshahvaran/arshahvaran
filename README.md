@@ -1,4 +1,4 @@
-![Header](./header.svg)
+<img src="./header.svg" width="100%">
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -99,4 +99,4 @@ Certified in advanced machine learning and deep learning, I combine programming 
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Map" />
 </p>
 
-![Footer](./footer.svg)
+<img src="./footer.svg" width="100%">
