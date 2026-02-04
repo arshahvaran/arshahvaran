@@ -80,7 +80,8 @@ Certified in advanced machine learning and deep learning, I combine programming 
       <h3 align="left">&nbsp;💻 Language Breakdown</h3>
       <div align="center">
          <a href="https://github.com/arshahvaran">
-          <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=arshahvaran&layout=pie&theme=dark&hide_border=true&bg_color=101010&text_color=ffffff&langs_count=6" width="100%" alt="Top Languages" />
+          <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=arshahvaran&layout=compact&theme=dark&hide_border=true&bg_color=101010&text_color=ffffff&langs_count=6" width="100%" alt="Top Languages" />
+</a>
         </a>
       </div>
     </td>
