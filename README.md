@@ -14,6 +14,39 @@ As an environmental scientist and engineer with a multidisciplinary background, 
 
 Certified in advanced machine learning and deep learning, I combine programming proficiency in Python, MATLAB, and R with a deep understanding of Earth and environmental sciences. My work bridges the gap between traditional environmental engineering and cutting-edge geo- and hydro-informatics, enabling me to develop innovative, data-driven solutions. I am committed to sustainability and always eager to collaborate on projects that make a positive impact on our environment.
 
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>🔎 Research Interests</h3>
+      <ul>
+        <li>💧 Water Resources Management | Hydrologic/Hydraulic Modeling | Water Quality Monitoring & Modeling</li>
+        <li>🛰️ Environmental Remote Sensing & Geographic Information Systems (GIS)</li>
+        <li>🌍 Climate Change Impact Assessment</li>
+        <li>🖥️ Artificial Intelligence (Machine Learning & Deep Learning) in Environmental Sciences | Geo-Hydroinformatics</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h3>🎓 Education</h3>
+      <ul>
+        <li>
+          <b>MSc in Earth Sciences - Water | 2024</b><br>
+          <sub>University of Waterloo</sub>
+        </li>
+        <li>
+          <b>MSc in Civil Engineering - Environmental | 2021</b><br>
+          <sub>Iran University of Science and Technology</sub>
+        </li>
+        <li>
+          <b>BSc in Civil Engineering | 2018</b><br>
+          <sub>Persian Gulf University</sub>
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+
 ### 🔎 Research Interests:
 * 💧 Water Resources Management | Hydrologic/Hydraulic Modeling | Water Quality Monitoring & Modeling
 * 🛰️ Environmental Remote Sensing & Geographic Information Systems (GIS)
