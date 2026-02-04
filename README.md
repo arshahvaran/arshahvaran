@@ -50,7 +50,7 @@ Certified in advanced machine learning and deep learning, I combine programming 
 <table width="100%" style="table-layout: fixed; border-collapse: collapse;">
   <tr>
     <td width="50%">
-      <h3 align="left">&nbsp;<img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" height="32" align="middle" alt="GitHub" />&nbsp; GitHub Stats</h3>
+      <h3 align="left">&nbsp;<img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" height="22.5" align="top" alt="GitHub" />&nbsp; GitHub Stats</h3>
       <div align="center">
         <a href="https://github.com/arshahvaran">
           <img src="https://github-readme-stats-fast.vercel.app/api?username=arshahvaran&show_icons=true&theme=dark&hide_border=true&bg_color=101010&text_color=ffffff&icon_color=fe7d37&title_color=fe7d37&hide_title=true" width="100%" alt="GitHub Stats" />
@@ -58,27 +58,28 @@ Certified in advanced machine learning and deep learning, I combine programming 
       </div>
     </td>
     <td width="50%">
-      <h3 align="left">&nbsp;<img src="https://cdn.simpleicons.org/leetcode/ffffff" height="32" align="middle" alt="LeetCode" />&nbsp; LeetCode Stats</h3>
+      <h3 align="left">&nbsp;<img src="https://cdn.simpleicons.org/leetcode/ffffff" height="22.5" align="top" alt="LeetCode" />&nbsp; LeetCode Stats</h3>
       <div align="center">
         <a href="https://leetcode.com/arshahvaran">
-          <img src="https://leetcard.jacoblin.cool/arshahvaran?theme=dark&font=Segoe%20UI&border=0&colors=101010,ffffff,ffffff,fe7d37" width="100%" alt="LeetCode Stats" />
+          <img src="https://leetcode.card.workers.dev/?username=arshahvaran&theme=dark&font=Segoe%20UI&border=0" width="100%" alt="LeetCode Stats" />
         </a>
       </div>
     </td>
   </tr>
+
   <tr>
     <td width="50%">
       <h3 align="left">&nbsp;🔥 Coding Streak</h3>
       <div align="center">
         <a href="https://github.com/arshahvaran">
-          <img src="https://streak-stats.demolab.com/?user=arshahvaran&theme=dark&hide_border=true&background=101010" width="100%" alt="Streak Stats" />
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshahvaran&theme=dark&hide_border=true&background=101010" width="100%" alt="Streak Stats" />
         </a>
       </div>
     </td>
     <td width="50%">
       <h3 align="left">&nbsp;💻 Language Breakdown</h3>
       <div align="center">
-        <a href="https://github.com/arshahvaran">
+         <a href="https://github.com/arshahvaran">
           <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=arshahvaran&layout=compact&theme=dark&hide_border=true&bg_color=101010&text_color=ffffff&langs_count=6" width="100%" alt="Top Languages" />
         </a>
       </div>
