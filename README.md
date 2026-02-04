@@ -36,7 +36,7 @@ Certified in advanced machine learning and deep learning, I combine programming 
 
 ## 🌐 Socials:
 
-[![X (formerly Twitter)](https://img.shields.io/badge/X_%28Formerly_Twitter%29-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/arshahvaran)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/arshahvaran)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-reza-shahvaran)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.ca/citations?user=pYay3EcAAAAJ&hl=en)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Ali-Reza-Shahvaran?ev=hdr_xprf)
@@ -50,7 +50,7 @@ Certified in advanced machine learning and deep learning, I combine programming 
 <table width="100%" style="table-layout: fixed; border-collapse: collapse;">
   <tr>
     <td width="50%">
-      <h3 align="left">&nbsp;<img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" height="22.5" align="top" alt="GitHub" />&nbsp;✂️GitHub Stats</h3>
+      <h3 align="left">&nbsp;<img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" height="22.5" align="top" alt="GitHub" />&nbsp; GitHub Stats</h3>
       <div align="center">
         <a href="https://github.com/arshahvaran">
           <img src="https://github-readme-stats-fast.vercel.app/api?username=arshahvaran&show_icons=true&theme=dark&hide_border=true&bg_color=101010&text_color=ffffff&icon_color=fe7d37&title_color=fe7d37&hide_title=true" width="100%" alt="GitHub Stats" />
@@ -58,7 +58,7 @@ Certified in advanced machine learning and deep learning, I combine programming 
       </div>
     </td>
     <td width="50%">
-      <h3 align="left">&nbsp;<img src="https://cdn.simpleicons.org/leetcode/ffffff" height="20" align="top" alt="LeetCode" />&nbsp;✂️LeetCode Stats</h3>
+      <h3 align="left">&nbsp;<img src="https://cdn.simpleicons.org/leetcode/ffffff" height="19" align="top" alt="LeetCode" />&nbsp; LeetCode Stats</h3>
       <div align="center">
         <a href="https://leetcode.com/arshahvaran">
           <img src="https://leetcode.card.workers.dev/?username=arshahvaran&theme=dark&font=Segoe%20UI&border=0" width="100%" alt="LeetCode Stats" />
