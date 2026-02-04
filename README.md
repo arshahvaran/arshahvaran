@@ -22,27 +22,27 @@ Certified in advanced machine learning and deep learning, I combine programming 
 
 ## ⚙️ Technical Skills
   
-![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=3776AB)
-![Scikit-Learn](https://img.shields.io/badge/scikit_learn-333333?style=flat&logo=scikit-learn&logoColor=F7931E)
-![NumPy](https://img.shields.io/badge/NumPy-333333?style=flat&logo=numpy&logoColor=013243)
-![R](https://img.shields.io/badge/R-333333?style=flat&logo=r&logoColor=276DC3)
-![MATLAB](https://img.shields.io/badge/MATLAB-333333?style=flat&logo=mathworks&logoColor=e16737)
-![Jupyter](https://img.shields.io/badge/Jupyter-333333?style=flat&logo=jupyter&logoColor=F37626)
-![Pandas](https://img.shields.io/badge/Pandas-333333?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-333333?style=flat&logo=matplotlib&logoColor=white)
-![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git&logoColor=F05033)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-333333?style=flat&logo=visual-studio-code&logoColor=0078d7)
+![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=3776AB) &nbsp;
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-333333?style=flat&logo=scikit-learn&logoColor=F7931E) &nbsp;
+![NumPy](https://img.shields.io/badge/NumPy-333333?style=flat&logo=numpy&logoColor=013243) &nbsp;
+![R](https://img.shields.io/badge/R-333333?style=flat&logo=r&logoColor=276DC3) &nbsp;
+![MATLAB](https://img.shields.io/badge/MATLAB-333333?style=flat&logo=mathworks&logoColor=e16737) &nbsp;
+![Jupyter](https://img.shields.io/badge/Jupyter-333333?style=flat&logo=jupyter&logoColor=F37626) &nbsp;
+![Pandas](https://img.shields.io/badge/Pandas-333333?style=flat&logo=pandas&logoColor=white) &nbsp;
+![Matplotlib](https://img.shields.io/badge/Matplotlib-333333?style=flat&logo=matplotlib&logoColor=white) &nbsp;
+![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git&logoColor=F05033) &nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-333333?style=flat&logo=visual-studio-code&logoColor=0078d7) &nbsp;
 
 
 ## 🌐 Socials:
 
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/arshahvaran) &nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-reza-shahvaran) &nbsp;&nbsp;
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.ca/citations?user=pYay3EcAAAAJ&hl=en) &nbsp;&nbsp;
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Ali-Reza-Shahvaran?ev=hdr_xprf) &nbsp;&nbsp;
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-7846-054X) &nbsp;&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/arshahvaran/) &nbsp;&nbsp;
-[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/arshahvaran) &nbsp;&nbsp;
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/arshahvaran) &nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-reza-shahvaran) &nbsp;
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.ca/citations?user=pYay3EcAAAAJ&hl=en) &nbsp;
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Ali-Reza-Shahvaran?ev=hdr_xprf) &nbsp;
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-7846-054X) &nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/arshahvaran/) &nbsp;
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/arshahvaran) &nbsp;
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/alirezashahvaran)
 
 
