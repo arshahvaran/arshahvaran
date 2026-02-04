@@ -99,4 +99,4 @@ Certified in advanced machine learning and deep learning, I combine programming 
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Map" />
 </p>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0078D7,100:00C7B7&height=100&section=footer)
+![Footer](./footer.svg)
