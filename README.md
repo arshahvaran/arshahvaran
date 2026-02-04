@@ -46,7 +46,7 @@ Certified in advanced machine learning and deep learning, I combine programming 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/alirezashahvaran)
 
 
-<h2 align="left">📊 Stats</h2>
+<h2 align="left">📊 Coding Stats</h2>
 <table width="100%" style="table-layout: fixed;">
   <tr>
     <td width="50%">
@@ -71,7 +71,7 @@ Certified in advanced machine learning and deep learning, I combine programming 
       <h3 align="left">&nbsp;🧠 LeetCode Stats</h3>
       <div align="center">
         <a href="https://leetcode.com/arshahvaran">
-          <img src="https://leetcode.card.workers.dev/?username=arshahvaran&theme=dark&hide_border=true&background=0d1117" width="100%" alt="LeetCode Stats" />
+          <img src="https://leetcode-stats-six.vercel.app/?username=arshahvaran&theme=dark&hide_border=true&bg_color=0d1117&icon_color=fe7d37&text_color=ffffff" width="100%" alt="LeetCode Stats" />
         </a>
       </div>
     </td>
