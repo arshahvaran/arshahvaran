@@ -46,8 +46,6 @@ Certified in advanced machine learning and deep learning, I combine programming 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/alirezashahvaran)
 
 
-## XXX
-
 <h2 align="left">📊 Stats</h2>
 <table width="100%">
   <tr>
@@ -88,40 +86,6 @@ Certified in advanced machine learning and deep learning, I combine programming 
   </tr>
 </table>
 
-## XXX
-
-
-
-
-
-
-## 💻 Language Breakdown
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshahvaran&layout=donut&theme=dark&hide_border=true&bg_color=333333&text_color=ffffff" alt="Top Langs" />
-  </a>
-</p>
-
-## 🔥 Coding Streak
-<p align="center">
-  <a href="https://github.com/arshahvaran">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshahvaran&theme=dark&hide_border=true&background=333333" alt="ReadMe Card" />
-  </a>
-</p>
-
-## 🧩 Coding Stats
-<p align="center">
-  <a href="https://leetcode.com/arshahvaran">
-    <img src="https://leetcard.app/api?username=arshahvaran&theme=dark&font=Segoe%20UI&ext=heatmap" alt="LeetCode Stats" />
-  </a>
-</p>
-
-## 📊 GitHub Stats
-<p align="center">
-  <a href="https://github.com/arshahvaran">
-    <img src="https://github-readme-stats.vercel.app/api?username=arshahvaran&show_icons=true&theme=dark&hide_border=true&bg_color=333333" alt="GitHub Stats" />
-  </a>
-</p>
 
 ## 🏆 GitHub Trophies
 <p align="center">
