@@ -47,7 +47,7 @@ Certified in advanced machine learning and deep learning, I combine programming 
 
 
 <h2 align="left">🚀 Coding Stats</h2>
-<table width="100%">
+<table width="100%" style="table-layout: fixed; border-collapse: collapse;">
   <tr>
     <td width="50%">
       <h3 align="left">&nbsp;🐙 GitHub Stats</h3>
@@ -71,20 +71,21 @@ Certified in advanced machine learning and deep learning, I combine programming 
       <h3 align="left">&nbsp;🧠 LeetCode Stats</h3>
       <div align="center">
         <a href="https://leetcode.com/arshahvaran">
-          <img src="https://leetcard.jacoblin.cool/arshahvaran?theme=dark&font=Segoe%20UI&border=0&colors=0d1117,ffffff,ffffff,fe7d37" width="100%" alt="LeetCode Stats" />
+          <img src="https://leetcode.card.workers.dev/?username=arshahvaran&theme=dark&font=Segoe%20UI&border=0" width="100%" alt="LeetCode Stats" />
         </a>
       </div>
     </td>
     <td width="50%">
       <h3 align="left">&nbsp;💻 Language Breakdown</h3>
       <div align="center">
-        <a href="https://github.com/arshahvaran">
+         <a href="https://github.com/arshahvaran">
           <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=arshahvaran&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=ffffff&langs_count=6" width="100%" alt="Top Languages" />
         </a>
       </div>
     </td>
   </tr>
 </table>
+ 
 
 <!-- 
   UNCOMMENT THIS SECTION IN THE FUTURE TO SHOW GITHUB TROPHIES
