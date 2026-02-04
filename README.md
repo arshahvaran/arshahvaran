@@ -47,13 +47,13 @@ Certified in advanced machine learning and deep learning, I combine programming 
 
 
 <h2 align="left">📊 Stats</h2>
-<table width="100%">
+<table width="100%" style="table-layout: fixed;">
   <tr>
     <td width="50%">
       <h3 align="left">&nbsp;🐙 GitHub Stats</h3>
       <div align="center">
         <a href="https://github.com/arshahvaran">
-          <img src="https://github-readme-stats-fast.vercel.app/api?username=arshahvaran&show_icons=true&theme=dark&hide_border=true&bg_color=333333&text_color=ffffff" width="100%" alt="GitHub Stats" />
+          <img src="https://github-readme-stats.vercel.app/api?username=arshahvaran&show_icons=true&theme=dark&hide_border=true&bg_color=333333&text_color=ffffff" width="100%" alt="GitHub Stats" />
         </a>
       </div>
     </td>
@@ -61,7 +61,7 @@ Certified in advanced machine learning and deep learning, I combine programming 
       <h3 align="left">&nbsp;🔥 Coding Streak</h3>
       <div align="center">
         <a href="https://github.com/arshahvaran">
-          <img src="https://streak-stats.demolab.com/?user=arshahvaran&theme=dark&hide_border=true&background=333333" width="100%" alt="Streak Stats" />
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshahvaran&theme=dark&hide_border=true&background=333333" width="100%" alt="Streak Stats" />
         </a>
       </div>
     </td>
@@ -71,7 +71,7 @@ Certified in advanced machine learning and deep learning, I combine programming 
       <h3 align="left">&nbsp;🧠 LeetCode Stats</h3>
       <div align="center">
         <a href="https://leetcode.com/arshahvaran">
-          <img src="https://leetcard.jacoblin.cool/api?username=arshahvaran&theme=dark&font=Segoe%20UI&ext=heatmap" width="100%" alt="LeetCode Stats" />
+          <img src="https://leetcode-stats-six.vercel.app/?username=arshahvaran&theme=dark" width="100%" alt="LeetCode Stats" />
         </a>
       </div>
     </td>
@@ -79,7 +79,7 @@ Certified in advanced machine learning and deep learning, I combine programming 
       <h3 align="left">&nbsp;💻 Language Breakdown</h3>
       <div align="center">
         <a href="https://github.com/arshahvaran">
-          <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=arshahvaran&layout=compact&theme=dark&hide_border=true&bg_color=333333&text_color=ffffff&langs_count=6" width="100%" alt="Top Languages" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshahvaran&layout=compact&theme=dark&hide_border=true&bg_color=333333&text_color=ffffff&langs_count=6" width="100%" alt="Top Languages" />
         </a>
       </div>
     </td>
