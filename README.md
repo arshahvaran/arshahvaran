@@ -21,7 +21,9 @@ Certified in advanced machine learning and deep learning, I combine programming 
 * 🖥️ Artificial Intelligence (Machine Learning & Deep Learning) in Environmental Sciences | Geo-Hydroinformatics
 
 ## ⚙️ Technical Skills
+
 <div align="center">
+  
 ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=3776AB)
 ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-333333?style=flat&logo=scikit-learn&logoColor=F7931E)
 ![NumPy](https://img.shields.io/badge/NumPy-333333?style=flat&logo=numpy&logoColor=013243)
