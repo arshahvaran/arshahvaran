@@ -53,7 +53,7 @@ Certified in advanced machine learning and deep learning, I combine programming 
       <h3 align="left">&nbsp;🐙 GitHub Stats</h3>
       <div align="center">
         <a href="https://github.com/arshahvaran">
-          <img src="https://github-readme-stats-fast.vercel.app/api?username=arshahvaran&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=fe7d37&title_color=fe7d37" width="100%" alt="GitHub Stats" />
+          <img src="https://github-readme-stats-fast.vercel.app/api?username=arshahvaran&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=fe7d37&title_color=fe7d37&hide_title=true" width="100%" alt="GitHub Stats" />
         </a>
       </div>
     </td>
