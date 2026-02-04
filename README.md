@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/95b30967-3884-4f2d-83b4-2d62d9da163f" width="100%" height="60" alt="header" style="filter: grayscale(100%); -webkit-filter: grayscale(100%);">
+<img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/95b30967-3884-4f2d-83b4-2d62d9da163f&filt=greyscale" width="100%" height="60" alt="header">
 
 <div align="center">
   <a href="https://git.io/typing-svg">
