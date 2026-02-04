@@ -106,4 +106,4 @@ Certified in advanced machine learning and deep learning, I combine programming 
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Map" />
 </p>
 
-<img src="https://github.com/user-attachments/assets/21cdb2d5-9ae8-4624-8ca2-d3640f22263f"  width="100%" height="60" alt="footer" style="filter: grayscale(100%); -webkit-filter: grayscale(100%);"/>
+<img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/21cdb2d5-9ae8-4624-8ca2-d3640f22263f&filt=greyscale" width="100%" height="60" alt="footer"/>
