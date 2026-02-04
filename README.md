@@ -47,9 +47,9 @@ Certified in advanced machine learning and deep learning, I combine programming 
 
 
 <h2 align="left">🚀 Coding Stats</h2>
-<table width="100%" style="table-layout: fixed;">
+<table width="100%" style="table-layout: fixed; border-collapse: collapse;">
   <tr>
-    <td width="50%">
+    <td width="50%" style="background-color: #0d1117;">
       <h3 align="left">&nbsp;🐙 GitHub Stats</h3>
       <div align="center">
         <a href="https://github.com/arshahvaran">
@@ -57,7 +57,7 @@ Certified in advanced machine learning and deep learning, I combine programming 
         </a>
       </div>
     </td>
-    <td width="50%">
+    <td width="50%" style="background-color: #0d1117;">
       <h3 align="left">&nbsp;🔥 Coding Streak</h3>
       <div align="center">
         <a href="https://github.com/arshahvaran">
@@ -67,7 +67,7 @@ Certified in advanced machine learning and deep learning, I combine programming 
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" style="background-color: #0d1117;">
       <h3 align="left">&nbsp;🧠 LeetCode Stats</h3>
       <div align="center">
         <a href="https://leetcode.com/arshahvaran">
@@ -76,7 +76,7 @@ Certified in advanced machine learning and deep learning, I combine programming 
         </a>
       </div>
     </td>
-    <td width="50%">
+    <td width="50%" style="background-color: #0d1117;">
       <h3 align="left">&nbsp;💻 Language Breakdown</h3>
       <div align="center">
          <a href="https://github.com/arshahvaran">
