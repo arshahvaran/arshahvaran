@@ -47,23 +47,6 @@ Certified in advanced machine learning and deep learning, I combine programming 
 </table>
 
 
-### 🔎 Research Interests:
-* 💧 Water Resources Management | Hydrologic/Hydraulic Modeling | Water Quality Monitoring & Modeling
-* 🛰️ Environmental Remote Sensing & Geographic Information Systems (GIS)
-* 🌍 Climate Change Impact Assessment
-* 🖥️ Artificial Intelligence (Machine Learning & Deep Learning) in Environmental Sciences | Geo-Hydroinformatics
-
-### 🎓 Education
-* **MSc in Earth Sciences - Water | 2024**<br>
-    <sub>University of Waterloo</sub>
-
-* **MSc in Civil Engineering - Environmental | 2021**<br>
-    <sub>Iran University of Science and Technology</sub>
-
-* **BSc in Civil Engineering | 2018**<br>
-    <sub>Persian Gulf University</sub>
-
-
 ## ⚙️ Technical Skills
   
 ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=3776AB) &nbsp;
