@@ -30,7 +30,7 @@ Certified in advanced machine learning and deep learning, I combine programming 
       <h3>🎓 Education</h3>
       <ul>
         <li>
-          <b>PhD in Civil Engineering | 2029</b><br>
+          <b>PhD in Civil Engineering | Expected 2030</b><br>
           <sub>University of Toronto</sub>
         </li>
         <li>
