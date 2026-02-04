@@ -71,7 +71,8 @@ Certified in advanced machine learning and deep learning, I combine programming 
       <h3 align="left">&nbsp;🧠 LeetCode Stats</h3>
       <div align="center">
         <a href="https://leetcode.com/arshahvaran">
-          <img src="https://leetcard.jacoblin.cool/api?username=arshahvaran&theme=dark&font=Segoe%20UI&ext=heatmap" width="100%" alt="LeetCode Stats" />width="100%" alt="LeetCode Stats" />
+          <img src="https://leetcode-status.vercel.app/api/card/arshahvaran?theme=transparent&border=false&text_color=%23ffffff&logo_color=%23fe7d37&font=Segoe%20UI" width="100%" alt="LeetCode Stats" />
+        </a>
         </a>
       </div>
     </td>
