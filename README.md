@@ -21,7 +21,7 @@ Certified in advanced machine learning and deep learning, I combine programming 
 * 🖥️ Artificial Intelligence (Machine Learning & Deep Learning) in Environmental Sciences | Geo-Hydroinformatics
 
 ## ⚙️ Technical Skills
-
+<div align="center">
 ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=3776AB)
 ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-333333?style=flat&logo=scikit-learn&logoColor=F7931E)
 ![NumPy](https://img.shields.io/badge/NumPy-333333?style=flat&logo=numpy&logoColor=013243)
@@ -33,7 +33,11 @@ Certified in advanced machine learning and deep learning, I combine programming 
 ![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git&logoColor=F05033)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-333333?style=flat&logo=visual-studio-code&logoColor=0078d7)
 
+</div>
+
 ## 🌐 Socials:
+
+<div align="center">
 
 [![X (formerly Twitter)](https://img.shields.io/badge/X_%28Formerly_Twitter%29-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/arshahvaran)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-reza-shahvaran)
@@ -43,6 +47,8 @@ Certified in advanced machine learning and deep learning, I combine programming 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/arshahvaran/)
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/arshahvaran)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/alirezashahvaran)
+
+</div>
 
 ## 💻 Language Breakdown
 <p align="center">
