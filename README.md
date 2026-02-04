@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/95b30967-3884-4f2d-83b4-2d62d9da163f" width="100%" height="60" alt="header">
+<img src="https://github.com/user-attachments/assets/95b30967-3884-4f2d-83b4-2d62d9da163f" width="100%" height="60" alt="header" style="filter: grayscale(100%); -webkit-filter: grayscale(100%);">
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -106,4 +106,4 @@ Certified in advanced machine learning and deep learning, I combine programming 
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Map" />
 </p>
 
-<img src="https://github.com/user-attachments/assets/21cdb2d5-9ae8-4624-8ca2-d3640f22263f"  width="100%" height="60" alt="footer"/>
+<img src="https://github.com/user-attachments/assets/21cdb2d5-9ae8-4624-8ca2-d3640f22263f"  width="100%" height="60" alt="footer" style="filter: grayscale(100%); -webkit-filter: grayscale(100%);"/>
