@@ -79,6 +79,10 @@ Certified in advanced machine learning and deep learning, I combine programming 
   </a>
 </p>
 
+<div align="center">
+  <img src="https://github.com/arshahvaran/arshahvaran/releases/download/metrics/github-metrics.svg" alt="Metrics" width="100%">
+</div>
+
 ## 📊 Contribution Model
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Map" />
