@@ -52,11 +52,7 @@ Certified in advanced machine learning and deep learning, I combine programming 
 <table width="100%">
   <tr>
     <td width="50%">
-      <div align="left">
-        <a href="https://github.com/arshahvaran">
-          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
-        </a>
-      </div>
+      <h3 align="left">&nbsp;🐙 GitHub Stats</h3>
       <div align="center">
         <a href="https://github.com/arshahvaran">
           <img src="https://github-readme-stats.vercel.app/api?username=arshahvaran&show_icons=true&theme=dark&hide_border=true&bg_color=333333&text_color=ffffff" width="100%" alt="GitHub Stats" />
@@ -74,22 +70,18 @@ Certified in advanced machine learning and deep learning, I combine programming 
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="left">&nbsp;💻 Language Breakdown</h3>
+      <h3 align="left">&nbsp;🧠 LeetCode Stats</h3>
       <div align="center">
-        <a href="https://github.com/arshahvaran">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshahvaran&layout=compact&theme=dark&hide_border=true&bg_color=333333&text_color=ffffff&langs_count=6" width="100%" alt="Top Languages" />
+        <a href="https://leetcode.com/arshahvaran">
+          <img src="https://leetcard.app/api?username=arshahvaran&theme=dark&font=Segoe%20UI&ext=heatmap" width="100%" alt="LeetCode Stats" />
         </a>
       </div>
     </td>
     <td width="50%">
-      <div align="left">
-        <a href="https://leetcode.com/arshahvaran">
-          <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode Badge" />
-        </a>
-      </div>
+      <h3 align="left">&nbsp;💻 Language Breakdown</h3>
       <div align="center">
-        <a href="https://leetcode.com/arshahvaran">
-          <img src="https://leetcard.app/api?username=arshahvaran&theme=dark&font=Segoe%20UI&ext=heatmap" width="100%" alt="LeetCode Stats" />
+        <a href="https://github.com/arshahvaran">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshahvaran&layout=compact&theme=dark&hide_border=true&bg_color=333333&text_color=ffffff&langs_count=6" width="100%" alt="Top Languages" />
         </a>
       </div>
     </td>
