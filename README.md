@@ -61,7 +61,7 @@ Certified in advanced machine learning and deep learning, I combine programming 
       <h3 align="left">&nbsp;🔥 Coding Streak</h3>
       <div align="center">
         <a href="https://github.com/arshahvaran">
-          <img src="https://streak-stats.demolab.com/?user=arshahvaran&theme=dark&hide_border=true&background=101010" width="100%" alt="Streak Stats" />
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshahvaran&theme=dark&hide_border=true&background=101010" width="100%" alt="Streak Stats" />
         </a>
       </div>
     </td>
