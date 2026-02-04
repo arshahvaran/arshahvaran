@@ -57,6 +57,15 @@ Certified in advanced machine learning and deep learning, I combine programming 
         </a>
       </div>
     </td>
+      <tr>
+    <td width="50%">
+      <h3 align="left">&nbsp;<img src="https://cdn.simpleicons.org/leetcode/ffffff" height="22.5" align="top" alt="LeetCode" />&nbsp; LeetCode Stats</h3>
+      <div align="center">
+        <a href="https://leetcode.com/arshahvaran">
+          <img src="https://leetcode.card.workers.dev/?username=arshahvaran&theme=dark&font=Segoe%20UI&border=0" width="100%" alt="LeetCode Stats" />
+        </a>
+      </div>
+    </td>
     <td width="50%">
       <h3 align="left">&nbsp;🔥 Coding Streak</h3>
       <div align="center">
@@ -66,15 +75,6 @@ Certified in advanced machine learning and deep learning, I combine programming 
       </div>
     </td>
   </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="left">&nbsp;<img src="https://cdn.simpleicons.org/leetcode/ffffff" height="22.5" align="top" alt="LeetCode" />&nbsp; LeetCode Stats</h3>
-      <div align="center">
-        <a href="https://leetcode.com/arshahvaran">
-          <img src="https://leetcode.card.workers.dev/?username=arshahvaran&theme=dark&font=Segoe%20UI&border=0" width="100%" alt="LeetCode Stats" />
-        </a>
-      </div>
-    </td>
     <td width="50%">
       <h3 align="left">&nbsp;💻 Language Breakdown</h3>
       <div align="center">
