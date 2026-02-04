@@ -48,59 +48,49 @@ Certified in advanced machine learning and deep learning, I combine programming 
 
 ## XXX
 
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=arshahvaran&theme=monokai&no-frame=true&no-bg=true&margin-w=4">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=arshahvaran&theme=flat&no-frame=true&no-bg=true&margin-w=4">
-      <img src="https://github-profile-trophy.vercel.app/?username=arshahvaran&theme=monokai&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-    </picture>
-  </a>
-</p>
-<br />
-
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
-
+<h2 align="center">📊 Stats</h2>
 <table width="100%">
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
+      <h3 align="left">
+        &nbsp;<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/github-light.svg" width="20" /> GitHub Stats
+      </h3>
+      <div align="center">
         <a href="https://github.com/arshahvaran">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=arshahvaran&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide_border=true" alt="GitHub Stats" />
+          <img src="https://github-readme-stats.vercel.app/api?username=arshahvaran&show_icons=true&theme=dark&hide_border=true&bg_color=333333&text_color=ffffff" alt="GitHub Stats" />
         </a>
-      </p>
+      </div>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
+      <h3 align="left">&nbsp;🔥 Coding Streak</h3>
+      <div align="center">
         <a href="https://github.com/arshahvaran">
-          <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arshahvaran&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff&hide_border=true" alt="Streak Stats" />
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshahvaran&theme=dark&hide_border=true&background=333333" alt="Streak Stats" />
         </a>
-      </p>
+      </div>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Lᴀɴɢᴜᴀɢᴇ Bʀᴇᴀᴋᴅᴏᴡɴ</strong></h3>
-      <p align="center">
+      <h3 align="left">&nbsp;💻 Language Breakdown</h3>
+      <div align="center">
         <a href="https://github.com/arshahvaran">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshahvaran&layout=compact&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&hide_border=true&langs_count=6" alt="Top Languages" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshahvaran&layout=compact&theme=dark&hide_border=true&bg_color=333333&text_color=ffffff&langs_count=6" alt="Top Languages" />
         </a>
-      </p>
+      </div>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>LᴇᴇᴛCᴏᴅᴇ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
+      <h3 align="left">
+        &nbsp;<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/leetcode-light.svg" width="20" /> LeetCode Stats
+      </h3>
+      <div align="center">
         <a href="https://leetcode.com/arshahvaran">
-          <img align="center" src="https://leetcard.app/api?username=arshahvaran&theme=nightowl&font=Segoe%20UI&ext=heatmap" alt="LeetCode Stats" />
+          <img src="https://leetcard.app/api?username=arshahvaran&theme=dark&font=Segoe%20UI&ext=heatmap" alt="LeetCode Stats" />
         </a>
-      </p>
+      </div>
     </td>
   </tr>
 </table>
-<br />
 
 ## XXX
 
