@@ -1,4 +1,4 @@
-<img src="./header.svg" width="100%">
+<img src="./header.svg" width="99%">
 
 <div align="center">
   <a href="https://git.io/typing-svg">
