@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0078D7,100:00C7B7&height=100&section=header)
+![Header](./header.svg)
 
 <div align="center">
   <a href="https://git.io/typing-svg">
