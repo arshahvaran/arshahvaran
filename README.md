@@ -9,7 +9,7 @@
 # <img src="https://github.com/user-attachments/assets/9efd3f92-f0e6-4634-b9b7-133bfb380f3b" height="40"/> <img src="https://github.com/user-attachments/assets/8aa59d64-0a48-47d1-a940-a70646fef76d" height="40"/> Ali Reza Shahvaran (He/Him), MSc [![GitHub followers](https://img.shields.io/github/followers/arshahvaran?style=social)](https://github.com/arshahvaran) ![Profile Views](https://komarev.com/ghpvc/?username=arshahvaran&color=blue&style=flat-square&label=Profile+Views)
 ### Research Assistant II (Geomatics Technician)
 
-## ℹ️ About:
+## ℹ️ About
 As an environmental scientist and engineer with a multidisciplinary background, I am passionate about leveraging technology to address complex environmental challenges. Over the past five years, I have integrated expertise in remote sensing, GIS, hydrologic modeling, and data science to specialize in environmental monitoring and climate change impact assessment.
 
 Certified in advanced machine learning and deep learning, I combine programming proficiency in Python, MATLAB, and R with a deep understanding of Earth and environmental sciences. My work bridges the gap between traditional environmental engineering and cutting-edge geo- and hydro-informatics, enabling me to develop innovative, data-driven solutions. I am committed to sustainability and always eager to collaborate on projects that make a positive impact on our environment.
@@ -65,7 +65,7 @@ Certified in advanced machine learning and deep learning, I combine programming 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-333333?style=flat&logo=visual-studio-code&logoColor=0078d7) &nbsp;
 
 
-## 🌐 Socials:
+## 🌐 Socials
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/arshahvaran) &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-reza-shahvaran) &nbsp;
