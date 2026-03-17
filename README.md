@@ -8,7 +8,6 @@
 
 # <img src="https://github.com/user-attachments/assets/9efd3f92-f0e6-4634-b9b7-133bfb380f3b" height="40"/> <img src="https://github.com/user-attachments/assets/8aa59d64-0a48-47d1-a940-a70646fef76d" height="40"/> Ali Reza Shahvaran (He/Him), MSc [![GitHub followers](https://img.shields.io/github/followers/arshahvaran?style=social)](https://github.com/arshahvaran) ![Profile Views](https://komarev.com/ghpvc/?username=arshahvaran&color=blue&style=flat-square&label=Profile+Views)
 ### PhD Student in Civil Engineering @ University of Toronto
-### MSc in Earth Sciences @ University of Waterloo
 
 ## ℹ️ About
 As a civil and environmental engineer and current PhD student at the University of Toronto, I am driven by a passion for leveraging artificial intelligent to solve complex environmental challenges. Building on over five years of combined research and industry experience, my work integrates water resources management, hydrologic (water-energy nexus) modeling to advance climate change adaptation and environmental monitoring.
