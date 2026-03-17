@@ -7,12 +7,14 @@
 </div>
 
 # <img src="https://github.com/user-attachments/assets/9efd3f92-f0e6-4634-b9b7-133bfb380f3b" height="40"/> <img src="https://github.com/user-attachments/assets/8aa59d64-0a48-47d1-a940-a70646fef76d" height="40"/> Ali Reza Shahvaran (He/Him), MSc [![GitHub followers](https://img.shields.io/github/followers/arshahvaran?style=social)](https://github.com/arshahvaran) ![Profile Views](https://komarev.com/ghpvc/?username=arshahvaran&color=blue&style=flat-square&label=Profile+Views)
-### Research Assistant II (Geomatics Technician)
+### PhD Student in Civil Engineering @ University of Toronto
+### MSc in Earth Sciences @ University of Waterloo
 
 ## ℹ️ About
-As an environmental scientist and engineer with a multidisciplinary background, I am passionate about leveraging technology to address complex environmental challenges. Over the past five years, I have integrated expertise in remote sensing, GIS, hydrologic modeling, and data science to specialize in environmental monitoring and climate change impact assessment.
+As a civil and environmental engineer and current PhD student at the University of Toronto, I am driven by a passion for leveraging artificial intelligent to solve complex environmental challenges. Building on over five years of combined research and industry experience, my work integrates water resources management, hydrologic (water-energy nexus) modeling to advance climate change adaptation and environmental monitoring.
 
-Certified in advanced machine learning and deep learning, I combine programming proficiency in Python, MATLAB, and R with a deep understanding of Earth and environmental sciences. My work bridges the gap between traditional environmental engineering and cutting-edge geo- and hydro-informatics, enabling me to develop innovative, data-driven solutions. I am committed to sustainability and always eager to collaborate on projects that make a positive impact on our environment.
+Drawing on my foundation in Earth sciences as an alumnus of the University of Waterloo, I combine deep expertise in remote sensing, GIS, and data science to bridge the gap between traditional engineering and cutting-edge geo-hydroinformatics. Leveraging advanced certifications in machine learning and proficiency in Python, MATLAB, and R, I build robust, data-driven solutions—ranging from predictive models to decision-support tools. I actively welcome new research collaborations, as I remain deeply committed to sustainability and am always eager to connect with forward-thinking teams and organizations making a measurable impact on our environment.
+
 
 
 <table>
