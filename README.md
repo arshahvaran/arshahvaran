@@ -52,18 +52,56 @@ Drawing on my foundation in Earth sciences as an alumnus of the University of Wa
 </table>
 
 
-## 🧰 Developed Software & Tools
+<h2>🧰 Developed Software & Tools</h2>
 
-| Year | Tool | Live demo | Source |
-|:----:|------|:---------:|:------:|
-| 2026 | **Color Model Studio** | [Open](https://arshahvaran.github.io/color_model_studio) | [Repo](https://github.com/arshahvaran/color_model_studio) |
-| 2026 | **Peirce Quincuncial Map Studio** | [Open](https://arshahvaran.github.io/peirce_quincuncial_map_studio) | [Repo](https://github.com/arshahvaran/peirce_quincuncial_map_studio) |
-| 2026 | **Linear Regression Cost Explorer** | [Open](https://arshahvaran.github.io/linear_regression_cost_explorer) | [Repo](https://github.com/arshahvaran/linear_regression_cost_explorer) |
-| 2026 | **Ternary Diagram Simulator** | [Open](https://arshahvaran.github.io/ternary_diagram_simulator) | [Repo](https://github.com/arshahvaran/ternary_diagram_simulator) |
-| 2024 | **Western Lake Ontario Chlorophyll-a Online Visualizer** | [Open](https://reseclabmap.ca/lake-chlorophyll) | external |
-
-<sub>2024 tool developed with Homa Kheyrollah Pour, Caren Binding, Philippe Van Cappellen, and Moulik Budhiraja.</sub>
-
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="7%" align="center">Year</th>
+      <th width="34%" align="left">Tool</th>
+      <th width="10%" align="center">Live demo</th>
+      <th width="10%" align="center">Source</th>
+      <th width="39%" align="center">Preview</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">2026</td>
+      <td><b>Color Model Studio</b><br><sub>Ali Reza Shahvaran</sub></td>
+      <td align="center"><a href="https://arshahvaran.github.io/color_model_studio">Open</a></td>
+      <td align="center"><a href="https://github.com/arshahvaran/color_model_studio">Repo</a></td>
+      <td align="center"><a href="https://arshahvaran.github.io/color_model_studio"><img src="REPLACE_WITH_SCREENSHOT_URL" width="100%" alt="Color Model Studio preview"></a></td>
+    </tr>
+    <tr>
+      <td align="center">2026</td>
+      <td><b>Peirce Quincuncial Map Studio</b><br><sub>Ali Reza Shahvaran</sub></td>
+      <td align="center"><a href="https://arshahvaran.github.io/peirce_quincuncial_map_studio">Open</a></td>
+      <td align="center"><a href="https://github.com/arshahvaran/peirce_quincuncial_map_studio">Repo</a></td>
+      <td align="center"><a href="https://arshahvaran.github.io/peirce_quincuncial_map_studio"><img src="REPLACE_WITH_SCREENSHOT_URL" width="100%" alt="Peirce Quincuncial Map Studio preview"></a></td>
+    </tr>
+    <tr>
+      <td align="center">2026</td>
+      <td><b>Linear Regression Cost Explorer</b><br><sub>Ali Reza Shahvaran</sub></td>
+      <td align="center"><a href="https://arshahvaran.github.io/linear_regression_cost_explorer">Open</a></td>
+      <td align="center"><a href="https://github.com/arshahvaran/linear_regression_cost_explorer">Repo</a></td>
+      <td align="center"><a href="https://arshahvaran.github.io/linear_regression_cost_explorer"><img src="REPLACE_WITH_SCREENSHOT_URL" width="100%" alt="Linear Regression Cost Explorer preview"></a></td>
+    </tr>
+    <tr>
+      <td align="center">2026</td>
+      <td><b>Ternary Diagram Simulator</b><br><sub>Ali Reza Shahvaran</sub></td>
+      <td align="center"><a href="https://arshahvaran.github.io/ternary_diagram_simulator">Open</a></td>
+      <td align="center"><a href="https://github.com/arshahvaran/ternary_diagram_simulator">Repo</a></td>
+      <td align="center"><a href="https://arshahvaran.github.io/ternary_diagram_simulator"><img src="REPLACE_WITH_SCREENSHOT_URL" width="100%" alt="Ternary Diagram Simulator preview"></a></td>
+    </tr>
+    <tr>
+      <td align="center">2024</td>
+      <td><b>Western Lake Ontario Chlorophyll-a Online Visualizer</b><br><sub>Ali Reza Shahvaran, Homa Kheyrollah Pour, Caren Binding, Philippe Van Cappellen, Moulik Budhiraja</sub></td>
+      <td align="center"><a href="https://reseclabmap.ca/lake-chlorophyll">Open</a></td>
+      <td align="center">external</td>
+      <td align="center"><a href="https://reseclabmap.ca/lake-chlorophyll"><img src="REPLACE_WITH_SCREENSHOT_URL" width="100%" alt="Lake Ontario visualizer preview"></a></td>
+    </tr>
+  </tbody>
+</table>
 
 ## ⚙️ Technical Skills
   
