@@ -52,7 +52,7 @@ Drawing on my foundation in Earth sciences as an alumnus of the University of Wa
 </table>
 
 
-<h2>🧰 Developed Software & Tools</h2>
+<h2>🛠️ Developed Software & Tools</h2>
 
 <table width="100%">
   <thead>
