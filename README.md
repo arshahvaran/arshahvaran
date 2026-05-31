@@ -145,7 +145,7 @@ Drawing on my foundation in Earth sciences as an alumnus of the University of Wa
       <h3 align="left">&nbsp;<img src="https://cdn.simpleicons.org/leetcode/ffffff" height="19" align="top" alt="LeetCode" />&nbsp; LeetCode Stats</h3>
       <div align="center">
         <a href="https://leetcode.com/arshahvaran">
-          <img src="https://leetcard.jacoblin.cool/arshahvaran?theme=dark&font=Segoe%20UI&ext=activity" width="100%" alt="LeetCode Stats" />
+          <img src="https://leetcard.jacoblin.cool/arshahvaran?theme=dark&font=Open%20Sans&ext=activity" width="100%" alt="LeetCode Stats" />
         </a>
       </div>
     </td>
