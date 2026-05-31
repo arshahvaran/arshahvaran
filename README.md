@@ -52,6 +52,19 @@ Drawing on my foundation in Earth sciences as an alumnus of the University of Wa
 </table>
 
 
+## 🧰 Developed Software & Tools
+
+| Year | Tool | Live demo | Source |
+|:----:|------|:---------:|:------:|
+| 2026 | **Color Model Studio** | [Open](https://arshahvaran.github.io/color_model_studio) | [Repo](https://github.com/arshahvaran/color_model_studio) |
+| 2026 | **Peirce Quincuncial Map Studio** | [Open](https://arshahvaran.github.io/peirce_quincuncial_map_studio) | [Repo](https://github.com/arshahvaran/peirce_quincuncial_map_studio) |
+| 2026 | **Linear Regression Cost Explorer** | [Open](https://arshahvaran.github.io/linear_regression_cost_explorer) | [Repo](https://github.com/arshahvaran/linear_regression_cost_explorer) |
+| 2026 | **Ternary Diagram Simulator** | [Open](https://arshahvaran.github.io/ternary_diagram_simulator) | [Repo](https://github.com/arshahvaran/ternary_diagram_simulator) |
+| 2024 | **Western Lake Ontario Chlorophyll-a Online Visualizer** | [Open](https://reseclabmap.ca/lake-chlorophyll) | external |
+
+<sub>2024 tool developed with Homa Kheyrollah Pour, Caren Binding, Philippe Van Cappellen, and Moulik Budhiraja.</sub>
+
+
 ## ⚙️ Technical Skills
   
 ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=3776AB) &nbsp;
