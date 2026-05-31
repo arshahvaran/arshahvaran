@@ -58,8 +58,8 @@ Drawing on my foundation in Earth sciences as an alumnus of the University of Wa
   <thead>
     <tr>
       <th width="7%" align="center">Year</th>
-      <th width="30%" align="left">Tool</th>
-      <th width="9%" align="center">Live demo</th>
+      <th width="30%" align="center">Tool</th>
+      <th width="9%" align="center">Access Link</th>
       <th width="9%" align="center">Source</th>
       <th width="45%" align="center">Preview</th>
     </tr>
@@ -67,37 +67,37 @@ Drawing on my foundation in Earth sciences as an alumnus of the University of Wa
   <tbody>
     <tr>
       <td align="center" valign="middle">2026</td>
-      <td valign="middle"><b>Color Model Studio</b><br><sub>Ali Reza Shahvaran</sub></td>
+      <td align="center" valign="middle"><b>Color Model Studio</b><br><sub>Ali Reza Shahvaran</sub></td>
       <td align="center" valign="middle"><a href="https://arshahvaran.github.io/color_model_studio" target="_blank" rel="noopener noreferrer">Open</a></td>
       <td align="center" valign="middle"><a href="https://github.com/arshahvaran/color_model_studio" target="_blank" rel="noopener noreferrer">Repo</a></td>
       <td align="center" valign="middle"><a href="https://arshahvaran.github.io/color_model_studio" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/arshahvaran/arshahvaran/main/color_model_studio.png" width="100%" alt="Color Model Studio preview"></a></td>
     </tr>
     <tr>
       <td align="center" valign="middle">2026</td>
-      <td valign="middle"><b>Peirce Quincuncial Map Studio</b><br><sub>Ali Reza Shahvaran</sub></td>
+      <td align="center" valign="middle"><b>Peirce Quincuncial Map Studio</b><br><sub>Ali Reza Shahvaran</sub></td>
       <td align="center" valign="middle"><a href="https://arshahvaran.github.io/peirce_quincuncial_map_studio" target="_blank" rel="noopener noreferrer">Open</a></td>
       <td align="center" valign="middle"><a href="https://github.com/arshahvaran/peirce_quincuncial_map_studio" target="_blank" rel="noopener noreferrer">Repo</a></td>
       <td align="center" valign="middle"><a href="https://arshahvaran.github.io/peirce_quincuncial_map_studio" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/arshahvaran/arshahvaran/main/peirce_quincuncial_map_studio.png" width="100%" alt="Peirce Quincuncial Map Studio preview"></a></td>
     </tr>
     <tr>
       <td align="center" valign="middle">2026</td>
-      <td valign="middle"><b>Linear Regression Cost Explorer</b><br><sub>Ali Reza Shahvaran</sub></td>
+      <td align="center" valign="middle"><b>Linear Regression Cost Explorer</b><br><sub>Ali Reza Shahvaran</sub></td>
       <td align="center" valign="middle"><a href="https://arshahvaran.github.io/linear_regression_cost_explorer" target="_blank" rel="noopener noreferrer">Open</a></td>
       <td align="center" valign="middle"><a href="https://github.com/arshahvaran/linear_regression_cost_explorer" target="_blank" rel="noopener noreferrer">Repo</a></td>
       <td align="center" valign="middle"><a href="https://arshahvaran.github.io/linear_regression_cost_explorer" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/arshahvaran/arshahvaran/main/linear_regression_cost_explorer.png" width="100%" alt="Linear Regression Cost Explorer preview"></a></td>
     </tr>
     <tr>
       <td align="center" valign="middle">2026</td>
-      <td valign="middle"><b>Ternary Diagram Simulator</b><br><sub>Ali Reza Shahvaran</sub></td>
+      <td align="center" valign="middle"><b>Ternary Diagram Simulator</b><br><sub>Ali Reza Shahvaran</sub></td>
       <td align="center" valign="middle"><a href="https://arshahvaran.github.io/ternary_diagram_simulator" target="_blank" rel="noopener noreferrer">Open</a></td>
       <td align="center" valign="middle"><a href="https://github.com/arshahvaran/ternary_diagram_simulator" target="_blank" rel="noopener noreferrer">Repo</a></td>
       <td align="center" valign="middle"><a href="https://arshahvaran.github.io/ternary_diagram_simulator" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/arshahvaran/arshahvaran/main/ternary_diagram_simulator.png" width="100%" alt="Ternary Diagram Simulator preview"></a></td>
     </tr>
     <tr>
       <td align="center" valign="middle">2024</td>
-      <td valign="middle"><b>Western Lake Ontario Chlorophyll-a Online Visualizer</b><br><sub>Ali Reza Shahvaran, Homa Kheyrollah Pour, Caren Binding, Philippe Van Cappellen, Moulik Budhiraja</sub></td>
+      <td align="center" valign="middle"><b>Western Lake Ontario Chlorophyll-a Online Visualizer</b><br><sub>Ali Reza Shahvaran, Homa Kheyrollah Pour, Caren Binding, Philippe Van Cappellen, Moulik Budhiraja</sub></td>
       <td align="center" valign="middle"><a href="https://reseclabmap.ca/lake-chlorophyll" target="_blank" rel="noopener noreferrer">Open</a></td>
-      <td align="center" valign="middle">external</td>
+      <td align="center" valign="middle">External</td>
       <td align="center" valign="middle"><a href="https://reseclabmap.ca/lake-chlorophyll" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/arshahvaran/arshahvaran/main/lake-chlorophyll.png" width="100%" alt="Western Lake Ontario Chlorophyll-a visualizer preview"></a></td>
     </tr>
   </tbody>
