@@ -68,48 +68,47 @@ Drawing on my foundation in Earth sciences as an alumnus of the University of Wa
     <tr>
       <td align="center" valign="middle">2026</td>
       <td align="center" valign="middle"><b>CartoLab</b><br><sub>Ali Reza Shahvaran</sub></td>
-      <td align="left" valign="middle">An interactive studio for exploring how the round Earth is flattened onto a map, letting you smoothly morph one projection into another, see where shapes and sizes get stretched using Tissot indicatrices, measure real distances and directions, draw routes, and compare any two projections side by side.</td>
+      <td align="left" valign="middle">An interactive studio for exploring how the spherical Earth is projected onto a flat map, supporting projection morphing, distortion visualization through Tissot indicatrices, and great-circle distance measurement.</td>
       <td align="center" valign="middle"><a href="https://arshahvaran.github.io/cartolab" target="_blank" rel="noopener noreferrer">Open</a></td>
       <td align="center" valign="middle"><a href="https://arshahvaran.github.io/cartolab" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/arshahvaran/arshahvaran/main/cartolab.png" width="100%" alt="CartoLab preview"></a></td>
     </tr>
     <tr>
       <td align="center" valign="middle">2026</td>
       <td align="center" valign="middle"><b>Color Model Studio</b><br><sub>Ali Reza Shahvaran</sub></td>
-      <td align="left" valign="middle">A color workbench where you pick any color and edit it across the HSV, HSL, RGB, and CMYK systems with all the values staying in sync, then build palettes and gradients, mix colors, pull colors out of images, and copy ready-to-use code in Python, MATLAB, or R.</td>
+      <td align="left" valign="middle">A color management workbench for defining and converting colors across the HSV, HSL, RGB, and CMYK models, with palette generation and exportable code in Python, MATLAB, and R.</td>
       <td align="center" valign="middle"><a href="https://arshahvaran.github.io/color_model_studio" target="_blank" rel="noopener noreferrer">Open</a></td>
       <td align="center" valign="middle"><a href="https://arshahvaran.github.io/color_model_studio" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/arshahvaran/arshahvaran/main/color_model_studio.png" width="100%" alt="Color Model Studio preview"></a></td>
     </tr>
     <tr>
       <td align="center" valign="middle">2026</td>
       <td align="center" valign="middle"><b>Peirce Quincuncial Map Studio</b><br><sub>Ali Reza Shahvaran</sub></td>
-      <td align="left" valign="middle">A mapping tool that turns your longitude and latitude points into a stylish square Peirce quincuncial world map, with options to upload or paste your own data, customize the look with ready-made styles, and export the finished map as a PNG, JPG, SVG, or PDF.</td>
+      <td align="left" valign="middle">A cartographic tool that renders longitude and latitude inputs as a styled square Peirce quincuncial world map, exportable in PNG, JPG, SVG, and PDF formats.</td>
       <td align="center" valign="middle"><a href="https://arshahvaran.github.io/peirce_quincuncial_map_studio" target="_blank" rel="noopener noreferrer">Open</a></td>
       <td align="center" valign="middle"><a href="https://arshahvaran.github.io/peirce_quincuncial_map_studio" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/arshahvaran/arshahvaran/main/peirce_quincuncial_map_studio.png" width="100%" alt="Peirce Quincuncial Map Studio preview"></a></td>
     </tr>
     <tr>
       <td align="center" valign="middle">2026</td>
       <td align="center" valign="middle"><b>Linear Regression Cost Explorer</b><br><sub>Ali Reza Shahvaran</sub></td>
-      <td align="left" valign="middle">A visual playground that shows how a best-fit straight line is found through a cloud of data, letting you generate noisy points, test your own lines, and watch the gradient descent method step by step search for the line with the smallest total error.</td>
+      <td align="left" valign="middle">An educational tool that illustrates least-squares fitting of a regression line and the iterative search performed by gradient descent toward the minimum-error solution.</td>
       <td align="center" valign="middle"><a href="https://arshahvaran.github.io/linear_regression_cost_explorer" target="_blank" rel="noopener noreferrer">Open</a></td>
       <td align="center" valign="middle"><a href="https://arshahvaran.github.io/linear_regression_cost_explorer" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/arshahvaran/arshahvaran/main/linear_regression_cost_explorer.png" width="100%" alt="Linear Regression Cost Explorer preview"></a></td>
     </tr>
     <tr>
       <td align="center" valign="middle">2026</td>
       <td align="center" valign="middle"><b>Ternary Diagram Simulator</b><br><sub>Ali Reza Shahvaran</sub></td>
-      <td align="left" valign="middle">A plotting tool for mixtures made of three parts that add up to a whole, letting you enter the three component values and instantly see exactly where each sample falls inside a triangular ternary diagram, shown as either percentages or fractions.</td>
+      <td align="left" valign="middle">A plotting utility that maps three-component compositions onto a triangular ternary diagram, with display in either percentages or fractions.</td>
       <td align="center" valign="middle"><a href="https://arshahvaran.github.io/ternary_diagram_simulator" target="_blank" rel="noopener noreferrer">Open</a></td>
       <td align="center" valign="middle"><a href="https://arshahvaran.github.io/ternary_diagram_simulator" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/arshahvaran/arshahvaran/main/ternary_diagram_simulator.png" width="100%" alt="Ternary Diagram Simulator preview"></a></td>
     </tr>
     <tr>
       <td align="center" valign="middle">2024</td>
       <td align="center" valign="middle"><b>Western Lake Ontario Chlorophyll-a Online Visualizer</b><br><sub>Ali Reza Shahvaran, Homa Kheyrollah Pour, Caren Binding, Philippe Van Cappellen, Moulik Budhiraja</sub></td>
-      <td align="left" valign="middle">An interactive web map that displays satellite-estimated chlorophyll-a, a common indicator of algae and water quality, across the western basin of Lake Ontario, and it stores and visualizes the 2013 to 2023 Landsat-based dataset from the published study at https://doi.org/10.1016/j.scitotenv.2025.178881.</td>
+      <td align="left" valign="middle">An interactive web map presenting satellite-derived chlorophyll-a concentrations across western Lake Ontario, hosting the 2013 to 2023 Landsat dataset from the published study at https://doi.org/10.1016/j.scitotenv.2025.178881.</td>
       <td align="center" valign="middle"><a href="https://reseclabmap.ca/lake-chlorophyll" target="_blank" rel="noopener noreferrer">Open</a></td>
       <td align="center" valign="middle"><a href="https://reseclabmap.ca/lake-chlorophyll" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/arshahvaran/arshahvaran/main/lake-chlorophyll.png" width="100%" alt="Western Lake Ontario Chlorophyll-a visualizer preview"></a></td>
     </tr>
   </tbody>
 </table>
-
 
 ## ⚙️ Technical Skills
   
