@@ -101,6 +101,20 @@ Drawing on my foundation in Earth sciences as an alumnus of the University of Wa
       <td align="center" valign="middle"><a href="https://arshahvaran.github.io/ternary_diagram_simulator" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/arshahvaran/arshahvaran/main/ternary_diagram_simulator.png" width="100%" alt="Ternary Diagram Simulator preview"></a></td>
     </tr>
     <tr>
+      <td align="center" valign="middle">2026</td>
+      <td align="center" valign="middle"><b>DEM 3D Studio</b><br><sub>Ali Reza Shahvaran</sub></td>
+      <td align="left" valign="middle">An interactive studio for rendering a WGS84 elevation GeoTIFF as a true-scale 3D terrain block, with hypsometric color ramps, sun lighting and hillshade, distance and point measurement, and export to PNG, JPG, SVG, PDF, and OBJ.</td>
+      <td align="center" valign="middle"><a href="https://arshahvaran.github.io/dem_3d_studio" target="_blank" rel="noopener noreferrer">Open</a></td>
+      <td align="center" valign="middle"><a href="https://arshahvaran.github.io/dem_3d_studio" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/arshahvaran/arshahvaran/main/dem_3d_studio.png" width="100%" alt="DEM 3D Studio preview"></a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">2026</td>
+      <td align="center" valign="middle"><b>Text Studio</b><br><sub>Ali Reza Shahvaran</sub></td>
+      <td align="left" valign="middle">A single-page text workbench that analyzes, transforms, and stylizes text, generating fancy Unicode fonts, academic notation, ASCII art, encodings, and exportable word clouds.</td>
+      <td align="center" valign="middle"><a href="https://arshahvaran.github.io/text_studio" target="_blank" rel="noopener noreferrer">Open</a></td>
+      <td align="center" valign="middle"><a href="https://arshahvaran.github.io/text_studio" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/arshahvaran/arshahvaran/main/text_studio.png" width="100%" alt="Text Studio preview"></a></td>
+    </tr>
+    <tr>
       <td align="center" valign="middle">2024</td>
       <td align="center" valign="middle"><b>Western Lake Ontario Chlorophyll-a Online Visualizer</b><br><sub>Ali Reza Shahvaran, Homa Kheyrollah Pour, Caren Binding, Philippe Van Cappellen, Moulik Budhiraja</sub></td>
       <td align="left" valign="middle">An interactive web map presenting satellite-derived chlorophyll-a concentrations across western Lake Ontario, hosting the 2013 to 2023 Landsat dataset from the published study at https://doi.org/10.1016/j.scitotenv.2025.178881.</td>
@@ -109,6 +123,7 @@ Drawing on my foundation in Earth sciences as an alumnus of the University of Wa
     </tr>
   </tbody>
 </table>
+
 
 ## ⚙️ Technical Skills
   
