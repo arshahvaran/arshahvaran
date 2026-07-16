@@ -54,6 +54,8 @@ Drawing on my foundation in Earth sciences as an alumnus of the University of Wa
 
 <h2>🛠️ Developed Software & Tools</h2>
 
+<h2>🛠️ Developed Software & Tools</h2>
+
 <table width="100%">
   <thead>
     <tr>
@@ -65,6 +67,13 @@ Drawing on my foundation in Earth sciences as an alumnus of the University of Wa
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td align="center" valign="middle">2026</td>
+      <td align="center" valign="middle"><b>Hydrograph Metrics Explorer (HME)</b><br><sub>Ali Reza Shahvaran, Elham Soleimanian, Rezgar Arabzadeh, Bryan Tolson, James Craig</sub></td>
+      <td align="left" valign="middle">A browser-based evaluation tool that computes timing- and shape-aware hydrograph metrics alongside conventional ones such as NSE and KGE, updating every metric live as users shift, scale, or offset their flow series.</td>
+      <td align="center" valign="middle"><a href="https://arshahvaran.github.io/hydrograph_metrics_explorer" target="_blank" rel="noopener noreferrer">Open</a></td>
+      <td align="center" valign="middle"><a href="https://arshahvaran.github.io/hydrograph_metrics_explorer" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/arshahvaran/arshahvaran/main/hydrograph_metrics_explorer.png" width="100%" alt="Hydrograph Metrics Explorer preview"></a></td>
+    </tr>
     <tr>
       <td align="center" valign="middle">2026</td>
       <td align="center" valign="middle"><b>Text Studio</b><br><sub>Ali Reza Shahvaran</sub></td>
