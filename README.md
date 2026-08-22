@@ -68,14 +68,14 @@ Drawing on my foundation in Earth sciences as an alumnus of the University of Wa
     <tr>
       <td align="center" valign="middle">2026</td>
       <td align="center" valign="middle"><b>BC Wildfire Susceptibility Explorer</b><br><sub>Ali Reza Shahvaran, Roohollah Noori, Sayed M. Bateni, Changhyun Jun, Kaveh Madani, Mojtaba Sadegh, Amir AghaKouchak</sub></td>
-      <td align="left" valign="middle">An Earth Engine app for reading calibrated, uncertainty-aware wildfire ignition susceptibility maps of British Columbia.</td>
+      <td align="center" valign="middle">An Earth Engine app for reading calibrated, uncertainty-aware wildfire ignition susceptibility maps of British Columbia.</td>
       <td align="center" valign="middle"><a href="https://ee-arshahvaran.projects.earthengine.app/view/bc-wildfire" target="_blank" rel="noopener noreferrer">Open</a></td>
       <td align="center" valign="middle"><a href="https://ee-arshahvaran.projects.earthengine.app/view/bc-wildfire" target="_blank" rel="noopener noreferrer"><img src="https://github.com/arshahvaran/arshahvaran/blob/main/bc-wildfire-susceptibility-explorer.png" width="100%" alt="BC Wildfire Susceptibility Explorer preview"></a></td>
         </tr>
     <tr>
       <td align="center" valign="middle">2026</td>
       <td align="center" valign="middle"><b>Hydrograph Metrics Explorer (HME)</b><br><sub>Ali Reza Shahvaran, Elham Soleimanian, Rezgar Arabzadeh, Bryan Tolson, James Craig</sub></td>
-      <td align="left" valign="middle">A browser-based evaluation tool that computes timing- and shape-aware hydrograph metrics alongside conventional ones such as NSE and KGE, updating every metric live as users shift, scale, or offset their flow series.</td>
+      <td align="center" valign="middle">A browser-based evaluation tool that computes timing- and shape-aware hydrograph metrics alongside conventional ones such as NSE and KGE, updating every metric live as users shift, scale, or offset their flow series.</td>
       <td align="center" valign="middle"><a href="https://arshahvaran.github.io/hydrograph_metrics_explorer" target="_blank" rel="noopener noreferrer">Open</a></td>
       <td align="center" valign="middle"><a href="https://arshahvaran.github.io/hydrograph_metrics_explorer" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/arshahvaran/arshahvaran/main/hydrograph_metrics_explorer.png" width="100%" alt="Hydrograph Metrics Explorer preview"></a>
     </tr>
@@ -84,56 +84,56 @@ Drawing on my foundation in Earth sciences as an alumnus of the University of Wa
     <tr>
       <td align="center" valign="middle">2026</td>
       <td align="center" valign="middle"><b>Text Studio</b><br><sub>Ali Reza Shahvaran</sub></td>
-      <td align="left" valign="middle">A single-page text workbench that analyzes, transforms, and stylizes text, generating fancy Unicode fonts, academic notation, ASCII art, encodings, and exportable word clouds.</td>
+      <td align="center" valign="middle">A single-page text workbench that analyzes, transforms, and stylizes text, generating fancy Unicode fonts, academic notation, ASCII art, encodings, and exportable word clouds.</td>
       <td align="center" valign="middle"><a href="https://arshahvaran.github.io/text_studio" target="_blank" rel="noopener noreferrer">Open</a></td>
       <td align="center" valign="middle"><a href="https://arshahvaran.github.io/text_studio" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/arshahvaran/arshahvaran/main/text_studio.png" width="100%" alt="Text Studio preview"></a></td>
     </tr>
     <tr>
       <td align="center" valign="middle">2026</td>
       <td align="center" valign="middle"><b>DEM 3D Studio</b><br><sub>Ali Reza Shahvaran</sub></td>
-      <td align="left" valign="middle">An interactive studio for rendering a WGS84 elevation GeoTIFF as a true-scale 3D terrain block, with hypsometric color ramps, sun lighting and hillshade, distance and point measurement, and export to PNG, JPG, SVG, PDF, and OBJ.</td>
+      <td align="center" valign="middle">An interactive studio for rendering a WGS84 elevation GeoTIFF as a true-scale 3D terrain block, with hypsometric color ramps, sun lighting and hillshade, distance and point measurement, and export to PNG, JPG, SVG, PDF, and OBJ.</td>
       <td align="center" valign="middle"><a href="https://arshahvaran.github.io/dem_3d_studio" target="_blank" rel="noopener noreferrer">Open</a></td>
       <td align="center" valign="middle"><a href="https://arshahvaran.github.io/dem_3d_studio" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/arshahvaran/arshahvaran/main/dem_3d_studio.png" width="100%" alt="DEM 3D Studio preview"></a></td>
     </tr>
     <tr>
       <td align="center" valign="middle">2026</td>
       <td align="center" valign="middle"><b>CartoLab</b><br><sub>Ali Reza Shahvaran</sub></td>
-      <td align="left" valign="middle">An interactive studio for exploring how the spherical Earth is projected onto a flat map, supporting projection morphing, distortion visualization through Tissot indicatrices, and great-circle distance measurement.</td>
+      <td align="center" valign="middle">An interactive studio for exploring how the spherical Earth is projected onto a flat map, supporting projection morphing, distortion visualization through Tissot indicatrices, and great-circle distance measurement.</td>
       <td align="center" valign="middle"><a href="https://arshahvaran.github.io/cartolab" target="_blank" rel="noopener noreferrer">Open</a></td>
       <td align="center" valign="middle"><a href="https://arshahvaran.github.io/cartolab" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/arshahvaran/arshahvaran/main/cartolab.png" width="100%" alt="CartoLab preview"></a></td>
     </tr>
     <tr>
       <td align="center" valign="middle">2026</td>
       <td align="center" valign="middle"><b>Color Model Studio</b><br><sub>Ali Reza Shahvaran</sub></td>
-      <td align="left" valign="middle">A color management workbench for defining and converting colors across the HSV, HSL, RGB, and CMYK models, with palette generation and exportable code in Python, MATLAB, and R.</td>
+      <td align="center" valign="middle">A color management workbench for defining and converting colors across the HSV, HSL, RGB, and CMYK models, with palette generation and exportable code in Python, MATLAB, and R.</td>
       <td align="center" valign="middle"><a href="https://arshahvaran.github.io/color_model_studio" target="_blank" rel="noopener noreferrer">Open</a></td>
       <td align="center" valign="middle"><a href="https://arshahvaran.github.io/color_model_studio" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/arshahvaran/arshahvaran/main/color_model_studio.png" width="100%" alt="Color Model Studio preview"></a></td>
     </tr>
     <tr>
       <td align="center" valign="middle">2026</td>
       <td align="center" valign="middle"><b>Peirce Quincuncial Map Studio</b><br><sub>Ali Reza Shahvaran</sub></td>
-      <td align="left" valign="middle">A cartographic tool that renders longitude and latitude inputs as a styled square Peirce quincuncial world map, exportable in PNG, JPG, SVG, and PDF formats.</td>
+      <td align="center" valign="middle">A cartographic tool that renders longitude and latitude inputs as a styled square Peirce quincuncial world map, exportable in PNG, JPG, SVG, and PDF formats.</td>
       <td align="center" valign="middle"><a href="https://arshahvaran.github.io/peirce_quincuncial_map_studio" target="_blank" rel="noopener noreferrer">Open</a></td>
       <td align="center" valign="middle"><a href="https://arshahvaran.github.io/peirce_quincuncial_map_studio" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/arshahvaran/arshahvaran/main/peirce_quincuncial_map_studio.png" width="100%" alt="Peirce Quincuncial Map Studio preview"></a></td>
     </tr>
     <tr>
       <td align="center" valign="middle">2026</td>
       <td align="center" valign="middle"><b>Linear Regression Cost Explorer</b><br><sub>Ali Reza Shahvaran</sub></td>
-      <td align="left" valign="middle">An educational tool that illustrates least-squares fitting of a regression line and the iterative search performed by gradient descent toward the minimum-error solution.</td>
+      <td align="center" valign="middle">An educational tool that illustrates least-squares fitting of a regression line and the iterative search performed by gradient descent toward the minimum-error solution.</td>
       <td align="center" valign="middle"><a href="https://arshahvaran.github.io/linear_regression_cost_explorer" target="_blank" rel="noopener noreferrer">Open</a></td>
       <td align="center" valign="middle"><a href="https://arshahvaran.github.io/linear_regression_cost_explorer" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/arshahvaran/arshahvaran/main/linear_regression_cost_explorer.png" width="100%" alt="Linear Regression Cost Explorer preview"></a></td>
     </tr>
     <tr>
       <td align="center" valign="middle">2026</td>
       <td align="center" valign="middle"><b>Ternary Diagram Simulator</b><br><sub>Ali Reza Shahvaran</sub></td>
-      <td align="left" valign="middle">A plotting utility that maps three-component compositions onto a triangular ternary diagram, with display in either percentages or fractions.</td>
+      <td align="center" valign="middle">A plotting utility that maps three-component compositions onto a triangular ternary diagram, with display in either percentages or fractions.</td>
       <td align="center" valign="middle"><a href="https://arshahvaran.github.io/ternary_diagram_simulator" target="_blank" rel="noopener noreferrer">Open</a></td>
       <td align="center" valign="middle"><a href="https://arshahvaran.github.io/ternary_diagram_simulator" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/arshahvaran/arshahvaran/main/ternary_diagram_simulator.png" width="100%" alt="Ternary Diagram Simulator preview"></a></td>
     </tr>
     <tr>
       <td align="center" valign="middle">2024</td>
       <td align="center" valign="middle"><b>Western Lake Ontario Chlorophyll-a Online Visualizer</b><br><sub>Ali Reza Shahvaran, Homa Kheyrollah Pour, Caren Binding, Philippe Van Cappellen, Moulik Budhiraja</sub></td>
-      <td align="left" valign="middle">An interactive web map presenting satellite-derived chlorophyll-a concentrations across western Lake Ontario, hosting the 2013 to 2023 Landsat dataset from the published study at https://doi.org/10.1016/j.scitotenv.2025.178881.</td>
+      <td align="center" valign="middle">An interactive web map presenting satellite-derived chlorophyll-a concentrations across western Lake Ontario, hosting the 2013 to 2023 Landsat dataset from the published study at https://doi.org/10.1016/j.scitotenv.2025.178881.</td>
       <td align="center" valign="middle"><a href="https://reseclabmap.ca/lake-chlorophyll" target="_blank" rel="noopener noreferrer">Open</a></td>
       <td align="center" valign="middle"><a href="https://reseclabmap.ca/lake-chlorophyll" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/arshahvaran/arshahvaran/main/lake-chlorophyll.png" width="100%" alt="Western Lake Ontario Chlorophyll-a visualizer preview"></a></td>
     </tr>
