@@ -67,10 +67,19 @@ Drawing on my foundation in Earth sciences as an alumnus of the University of Wa
   <tbody>
     <tr>
       <td align="center" valign="middle">2026</td>
+      <td align="center" valign="middle"><b>BC Wildfire Susceptibility Explorer</b><br><sub>Ali Reza Shahvaran, Roohollah Noori, Sayed M. Bateni, Changhyun Jun, Kaveh Madani, Mojtaba Sadegh, Amir AghaKouchak</sub></td>
+      <td align="left" valign="middle">An Earth Engine app for reading calibrated, uncertainty-aware wildfire ignition susceptibility maps of British Columbia.</td>
+      <td align="center" valign="middle"><a href="https://ee-arshahvaran.projects.earthengine.app/view/bc-wildfire" target="_blank" rel="noopener noreferrer">Open</a></td>
+      <td align="center" valign="middle"><a href="https://ee-arshahvaran.projects.earthengine.app/view/bc-wildfire" target="_blank" rel="noopener noreferrer"><img src="https://github.com/arshahvaran/arshahvaran/blob/main/bc-wildfire-susceptibility-explorer.png" width="100%" alt="BC Wildfire Susceptibility Explorer preview"></a></td>
+        </tr>
+    <tr>
+      <td align="center" valign="middle">2026</td>
       <td align="center" valign="middle"><b>Hydrograph Metrics Explorer (HME)</b><br><sub>Ali Reza Shahvaran, Elham Soleimanian, Rezgar Arabzadeh, Bryan Tolson, James Craig</sub></td>
       <td align="left" valign="middle">A browser-based evaluation tool that computes timing- and shape-aware hydrograph metrics alongside conventional ones such as NSE and KGE, updating every metric live as users shift, scale, or offset their flow series.</td>
       <td align="center" valign="middle"><a href="https://arshahvaran.github.io/hydrograph_metrics_explorer" target="_blank" rel="noopener noreferrer">Open</a></td>
-      <td align="center" valign="middle"><a href="https://arshahvaran.github.io/hydrograph_metrics_explorer" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/arshahvaran/arshahvaran/main/hydrograph_metrics_explorer.png" width="100%" alt="Hydrograph Metrics Explorer preview"></a></td>
+      <td align="center" valign="middle"><a href="https://arshahvaran.github.io/hydrograph_metrics_explorer" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/arshahvaran/arshahvaran/main/hydrograph_metrics_explorer.png" width="100%" alt="Hydrograph Metrics Explorer preview"></a>
+    </tr>
+    <tr>
     </tr>
     <tr>
       <td align="center" valign="middle">2026</td>
