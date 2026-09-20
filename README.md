@@ -65,13 +65,20 @@ Drawing on my foundation in Earth sciences as an alumnus of the University of Wa
     </tr>
   </thead>
   <tbody>
+      <tr>
+      <td align="center" valign="middle">2026</td>
+      <td align="center" valign="middle"><b>Math Playground</b><br><sub>Ali Reza Shahvaran</sub></td>
+      <td align="center" valign="middle">A client-side web tool presenting interactive, parameter-driven visualizations of classic results in probability, chaos, and number theory.</td>
+      <td align="center" valign="middle"><a href="https://arshahvaran.github.io/math_playground" target="_blank" rel="noopener noreferrer">Open</a></td>
+      <td align="center" valign="middle"><a href="https://arshahvaran.github.io/math_playground" target="_blank" rel="noopener noreferrer"><img src="https://github.com/arshahvaran/arshahvaran/blob/main/math_playground.png" width="100%" alt="Math Playground preview"></a></td>
+    </tr>
     <tr>
       <td align="center" valign="middle">2026</td>
       <td align="center" valign="middle"><b>BC Wildfire Susceptibility Explorer</b><br><sub>Ali Reza Shahvaran, Roohollah Noori, Sayed M. Bateni, Changhyun Jun, Kaveh Madani, Mojtaba Sadegh, Amir AghaKouchak</sub></td>
       <td align="center" valign="middle">An Earth Engine app for reading calibrated, uncertainty-aware wildfire ignition susceptibility maps of British Columbia.</td>
       <td align="center" valign="middle"><a href="https://ee-arshahvaran.projects.earthengine.app/view/bc-wildfire" target="_blank" rel="noopener noreferrer">Open</a></td>
       <td align="center" valign="middle"><a href="https://ee-arshahvaran.projects.earthengine.app/view/bc-wildfire" target="_blank" rel="noopener noreferrer"><img src="https://github.com/arshahvaran/arshahvaran/blob/main/bc-wildfire-susceptibility-explorer.png" width="100%" alt="BC Wildfire Susceptibility Explorer preview"></a></td>
-        </tr>
+    </tr>
     <tr>
       <td align="center" valign="middle">2026</td>
       <td align="center" valign="middle"><b>Hydrograph Metrics Explorer (HME)</b><br><sub>Ali Reza Shahvaran, Elham Soleimanian, Rezgar Arabzadeh, Bryan Tolson, James Craig</sub></td>
