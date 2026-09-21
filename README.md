@@ -68,7 +68,7 @@ Drawing on my foundation in Earth sciences as an alumnus of the University of Wa
       <tr>
       <td align="center" valign="middle">2026</td>
       <td align="center" valign="middle"><b>Math Playground</b><br><sub>Ali Reza Shahvaran</sub></td>
-      <td align="center" valign="middle">A client-side web tool presenting interactive, parameter-driven visualizations of classic results in probability, chaos, and number theory.</td>
+      <td align="center" valign="middle">Interactive, parameter-driven visualizations of classic results in probability.</td>
       <td align="center" valign="middle"><a href="https://arshahvaran.github.io/math_playground" target="_blank" rel="noopener noreferrer">Open</a></td>
       <td align="center" valign="middle"><a href="https://arshahvaran.github.io/math_playground" target="_blank" rel="noopener noreferrer"><img src="https://github.com/arshahvaran/arshahvaran/blob/main/math_playground.png" width="100%" alt="Math Playground preview"></a></td>
     </tr>
