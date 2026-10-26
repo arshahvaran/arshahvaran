@@ -74,7 +74,7 @@ Drawing on my foundation in Earth sciences as an alumnus of the University of Wa
     </tr>
     <tr>
       <td align="center" valign="middle">2026</td>
-      <td align="center" valign="middle"><b>BC Wildfire Susceptibility Explorer</b><br><sub>Ali Reza Shahvaran, Roohollah Noori, Sayed M. Bateni, Changhyun Jun, Kaveh Madani, Mojtaba Sadegh, Amir AghaKouchak</sub></td>
+      <td align="center" valign="middle"><b>BC Wildfire Susceptibility Explorer</b><br><sub>Ali Reza Shahvaran, Roohollah Noori, Mojtaba Sadegh, Kaveh Madani, Amir AghaKouchak</sub></td>
       <td align="center" valign="middle">An Earth Engine app for reading calibrated, uncertainty-aware wildfire ignition susceptibility maps of British Columbia.</td>
       <td align="center" valign="middle"><a href="https://ee-arshahvaran.projects.earthengine.app/view/bc-wildfire" target="_blank" rel="noopener noreferrer">Open</a></td>
       <td align="center" valign="middle"><a href="https://ee-arshahvaran.projects.earthengine.app/view/bc-wildfire" target="_blank" rel="noopener noreferrer"><img src="https://github.com/arshahvaran/arshahvaran/blob/main/bc-wildfire-susceptibility-explorer.png" width="100%" alt="BC Wildfire Susceptibility Explorer preview"></a></td>
