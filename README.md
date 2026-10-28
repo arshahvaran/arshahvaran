@@ -87,8 +87,6 @@ Drawing on my foundation in Earth sciences as an alumnus of the University of Wa
       <td align="center" valign="middle"><a href="https://arshahvaran.github.io/hydrograph_metrics_explorer" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/arshahvaran/arshahvaran/main/hydrograph_metrics_explorer.png" width="100%" alt="Hydrograph Metrics Explorer preview"></a>
     </tr>
     <tr>
-    </tr>
-    <tr>
       <td align="center" valign="middle">2026</td>
       <td align="center" valign="middle"><b>Text Studio</b><br><sub>Ali Reza Shahvaran</sub></td>
       <td align="center" valign="middle">A single-page text workbench that analyzes, transforms, and stylizes text, generating fancy Unicode fonts, academic notation, ASCII art, encodings, and exportable word clouds.</td>
