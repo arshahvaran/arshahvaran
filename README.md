@@ -10,7 +10,7 @@
 ### PhD Student in Civil Engineering @ University of Toronto
 
 ## ℹ️ About
-As a civil and environmental engineer and current PhD student at the University of Toronto, I am driven by a passion for leveraging artificial intelligent to solve complex environmental challenges. Building on over five years of combined research and industry experience, my work integrates water resources management, hydrologic (water-energy nexus) modeling to advance climate change adaptation and environmental monitoring.
+As a civil and environmental engineer and current PhD student at the University of Toronto, I am driven by a passion for leveraging artificial intelligence to solve complex environmental challenges. Building on over five years of combined research and industry experience, my work integrates water resources management, hydrologic (water-energy nexus) modeling to advance climate change adaptation and environmental monitoring.
 
 Drawing on my foundation in Earth sciences as an alumnus of the University of Waterloo, I combine deep expertise in remote sensing, GIS, and data science to bridge the gap between traditional engineering and cutting-edge geo-hydroinformatics. Leveraging advanced certifications in machine learning and proficiency in Python, MATLAB, and R, I build robust, data-driven solutions—ranging from predictive models to decision-support tools. I actively welcome new research collaborations, as I remain deeply committed to sustainability and am always eager to connect with forward-thinking teams and organizations making a measurable impact on our environment.
 
